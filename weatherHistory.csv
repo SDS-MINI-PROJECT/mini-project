@@ -1,0 +1,721 @@
+Formatted Date,Summary,Precip Type,Temperature (C),Apparent Temperature (C),Humidity,Wind Speed (km/h),Wind Bearing (degrees),Visibility (km),Loud Cover,Pressure (millibars),Daily Summary
+2016-09-01 00:00:00.000 +0200,Clear,rain,16.34444444,16.34444444,0.6,6.1502,40,16.1,0,1022.16,Partly cloudy starting in the morning continuing until night.
+2016-09-01 01:00:00.000 +0200,Clear,rain,15.78888889,15.78888889,0.62,6.1019,69,16.1,0,1022.05,Partly cloudy starting in the morning continuing until night.
+2016-09-01 02:00:00.000 +0200,Clear,rain,13.34444444,13.34444444,0.73,3.2522,56,15.1823,0,1021.85,Partly cloudy starting in the morning continuing until night.
+2016-09-01 03:00:00.000 +0200,Clear,rain,12.61111111,12.61111111,0.75,3.22,20,16.1,0,1021.84,Partly cloudy starting in the morning continuing until night.
+2016-09-01 04:00:00.000 +0200,Clear,rain,12.03888889,12.03888889,0.78,0,0,16.1,0,1021.84,Partly cloudy starting in the morning continuing until night.
+2016-09-01 05:00:00.000 +0200,Clear,rain,12.12222222,12.12222222,0.78,6.4239,14,14.9569,0,1021.93,Partly cloudy starting in the morning continuing until night.
+2016-09-01 06:00:00.000 +0200,Clear,rain,11.99444444,11.99444444,0.76,1.6905,320,15.8263,0,1021.76,Partly cloudy starting in the morning continuing until night.
+2016-09-01 07:00:00.000 +0200,Partly Cloudy,rain,14.66111111,14.66111111,0.74,0,0,16.1,0,1022.04,Partly cloudy starting in the morning continuing until night.
+2016-09-01 08:00:00.000 +0200,Partly Cloudy,rain,17.46111111,17.46111111,0.66,8.8067,32,15.5526,0,1021.95,Partly cloudy starting in the morning continuing until night.
+2016-09-01 09:00:00.000 +0200,Clear,rain,20.99444444,20.99444444,0.57,4.8944,43,16.1,0,1022.04,Partly cloudy starting in the morning continuing until night.
+2016-09-01 10:00:00.000 +0200,Partly Cloudy,rain,23.81666667,23.81666667,0.42,4.3309,33,16.1,0,1022.14,Partly cloudy starting in the morning continuing until night.
+2016-09-01 11:00:00.000 +0200,Partly Cloudy,rain,NaN,24.95,0.36,8.5491,68,15.5526,0,1022.14,Partly cloudy starting in the morning continuing until night.
+2016-09-01 12:00:00.000 +0200,Partly Cloudy,rain,26.08333333,26.08333333,0.32,7.8085,72,16.1,0,1021.83,Partly cloudy starting in the morning continuing until night.
+2016-09-01 13:00:00.000 +0200,Partly Cloudy,rain,27.70555556,26.82222222,0.29,7.7441,29,16.1,0,1021.51,Partly cloudy starting in the morning continuing until night.
+2016-09-01 14:00:00.000 +0200,Partly Cloudy,rain,27.66111111,26.75555556,0.28,8.6779,6,15.5526,0,1020.73,Partly cloudy starting in the morning continuing until night.
+2016-09-01 15:00:00.000 +0200,Partly Cloudy,rain,27.77777778,26.83888889,0.28,4.6368,67,16.1,0,1020.03,Partly cloudy starting in the morning continuing until night.
+2016-09-01 16:00:00.000 +0200,Partly Cloudy,rain,28.79444444,27.54444444,0.27,9.499,359,16.1,0,1019.62,Partly cloudy starting in the morning continuing until night.
+2016-09-01 17:00:00.000 +0200,Partly Cloudy,rain,27.71666667,26.80555556,0.28,9.821,2,15.5526,0,1019.24,Partly cloudy starting in the morning continuing until night.
+2016-09-01 18:00:00.000 +0200,Partly Cloudy,rain,27.17222222,26.52777778,0.3,8.0983,349,16.1,0,1019.21,Partly cloudy starting in the morning continuing until night.
+2016-09-01 19:00:00.000 +0200,Partly Cloudy,rain,23.86111111,23.86111111,0.41,4.83,348,16.1,0,1018.92,Partly cloudy starting in the morning continuing until night.
+2016-09-01 20:00:00.000 +0200,Partly Cloudy,rain,20.16111111,20.16111111,0.53,0.483,349,15.5526,0,1019.45,Partly cloudy starting in the morning continuing until night.
+2016-09-01 21:00:00.000 +0200,Partly Cloudy,rain,17.70555556,17.70555556,0.66,0,0,16.1,0,1019.94,Partly cloudy starting in the morning continuing until night.
+2016-09-01 22:00:00.000 +0200,Partly Cloudy,rain,17.08333333,17.08333333,0.68,6.44,310,16.1,0,1020.24,Partly cloudy starting in the morning continuing until night.
+2016-09-01 23:00:00.000 +0200,Partly Cloudy,rain,16.18888889,16.18888889,0.72,4.4597,353,15.5526,0,1020.24,Partly cloudy starting in the morning continuing until night.
+2016-09-10 00:00:00.000 +0200,Clear,rain,17.79444444,17.79444444,0.76,6.2468,19,16.0517,0,1016.26,Partly cloudy starting in the morning.
+2016-09-10 01:00:00.000 +0200,Clear,rain,17.24444444,17.24444444,0.81,6.1502,20,16.0517,0,1016.16,Partly cloudy starting in the morning.
+2016-09-10 02:00:00.000 +0200,Clear,rain,17.30555556,17.30555556,0.8,5.9892,352,15.1501,0,1016.06,Partly cloudy starting in the morning.
+2016-09-10 03:00:00.000 +0200,Clear,rain,16.6,16.6,0.84,6.44,0,15.9229,0,1015.98,Partly cloudy starting in the morning.
+2016-09-10 04:00:00.000 +0200,Clear,rain,16.60555556,16.60555556,0.84,6.6493,11,15.8263,0,1015.97,Partly cloudy starting in the morning.
+2016-09-10 05:00:00.000 +0200,Clear,rain,16.67777778,16.67777778,0.83,6.2307,4,14.9569,0,1015.77,Partly cloudy starting in the morning.
+2016-09-10 06:00:00.000 +0200,Clear,rain,16.04444444,16.04444444,0.87,2.0286,45,15.7297,0,1015.96,Partly cloudy starting in the morning.
+2016-09-10 07:00:00.000 +0200,Partly Cloudy,rain,17.08888889,17.08888889,0.82,4.9749,31,15.7297,0,1016.35,Partly cloudy starting in the morning.
+2016-09-10 08:00:00.000 +0200,Partly Cloudy,rain,18.75555556,18.75555556,0.8,9.1448,30,15.1501,0,1016.36,Partly cloudy starting in the morning.
+2016-09-10 09:00:00.000 +0200,Partly Cloudy,rain,22.13333333,22.13333333,0.65,8.0178,13,16.1,0,1016.45,Partly cloudy starting in the morning.
+2016-09-10 10:00:00.000 +0200,Partly Cloudy,rain,24.95,24.95,0.55,7.889,42,16.1,0,1016.54,Partly cloudy starting in the morning.
+2016-09-10 11:00:00.000 +0200,Partly Cloudy,rain,27.54444444,27.73888889,0.47,7.567,103,15.5526,0,1016.3,Partly cloudy starting in the morning.
+2016-09-10 12:00:00.000 +0200,Partly Cloudy,rain,28.91111111,28.56666667,0.41,NaN,157,16.1,0,1016.23,Partly cloudy starting in the morning.
+2016-09-10 13:00:00.000 +0200,Mostly Cloudy,rain,31.03888889,29.77222222,0.3,15.0696,157,16.1,0,1015.81,Partly cloudy starting in the morning.
+2016-09-10 14:00:00.000 +0200,Mostly Cloudy,rain,29.85,28.72222222,0.31,20.447,150,15.5526,0,1015.66,Partly cloudy starting in the morning.
+2016-09-10 15:00:00.000 +0200,Mostly Cloudy,rain,28.98333333,27.94444444,0.31,15.6331,151,16.1,0,1015.58,Partly cloudy starting in the morning.
+2016-09-10 16:00:00.000 +0200,Mostly Cloudy,rain,28.93888889,28.02777778,0.33,13.6045,151,15.8263,0,1015.2,Partly cloudy starting in the morning.
+2016-09-10 17:00:00.000 +0200,Mostly Cloudy,rain,27.75,27.33333333,0.38,3.5098,151,15.3111,0,1015.2,Partly cloudy starting in the morning.
+2016-09-10 18:00:00.000 +0200,Mostly Cloudy,rain,27.73333333,27.62222222,0.43,1.2075,51,15.8263,0,1015.01,Partly cloudy starting in the morning.
+2016-09-10 19:00:00.000 +0200,Mostly Cloudy,rain,24.95,24.95,0.5,3.0751,340,16.1,0,1014.93,Partly cloudy starting in the morning.
+2016-09-10 20:00:00.000 +0200,Mostly Cloudy,rain,23.48888889,23.48888889,0.6,3.5098,18,15.5526,0,1015.52,Partly cloudy starting in the morning.
+2016-09-10 21:00:00.000 +0200,Mostly Cloudy,rain,22.52777778,22.52777778,0.67,3.22,0,16.1,0,1015.86,Partly cloudy starting in the morning.
+2016-09-10 22:00:00.000 +0200,Mostly Cloudy,rain,21.36666667,21.36666667,0.72,6.2951,20,16.1,0,1016.04,Partly cloudy starting in the morning.
+2016-09-10 23:00:00.000 +0200,Mostly Cloudy,rain,21.30555556,21.30555556,0.67,3.381,36,15.1823,0,1016.14,Partly cloudy starting in the morning.
+2016-09-11 00:00:00.000 +0200,Mostly Cloudy,rain,20.78888889,20.78888889,0.7,3.22,10,16.1,0,1016.25,Mostly cloudy throughout the day.
+2016-09-11 01:00:00.000 +0200,Partly Cloudy,rain,19.28333333,19.28333333,0.77,6.44,20,16.1,0,1016.16,Mostly cloudy throughout the day.
+2016-09-11 02:00:00.000 +0200,Partly Cloudy,rain,18.9,18.9,0.77,5.8604,22,15.1823,0,1015.96,Mostly cloudy throughout the day.
+2016-09-11 03:00:00.000 +0200,Mostly Cloudy,rain,19.28888889,19.28888889,0.77,3.1878,8,16.1,0,1015.86,Mostly cloudy throughout the day.
+2016-09-11 04:00:00.000 +0200,Mostly Cloudy,rain,19.72777778,19.72777778,0.74,6.2951,40,16.1,NaN,1015.76,Mostly cloudy throughout the day.
+2016-09-11 05:00:00.000 +0200,Mostly Cloudy,rain,19.02222222,19.02222222,0.8,3.1717,52,15.1823,0,1016.03,Mostly cloudy throughout the day.
+2016-09-11 06:00:00.000 +0200,Mostly Cloudy,rain,19.75,19.75,0.74,7.7924,30,16.0517,0,1016.15,Mostly cloudy throughout the day.
+2016-09-11 07:00:00.000 +0200,Mostly Cloudy,rain,19.8,19.8,0.79,4.9749,31,16.0517,0,1016.17,Mostly cloudy throughout the day.
+2016-09-11 08:00:00.000 +0200,Mostly Cloudy,rain,20.93333333,20.93333333,0.75,3.7996,43,15.1501,0,1016.52,Mostly cloudy throughout the day.
+2016-09-11 09:00:00.000 +0200,Mostly Cloudy,rain,24.86111111,24.86111111,0.55,3.5903,80,16.1,0,1016.75,Mostly cloudy throughout the day.
+2016-09-11 10:00:00.000 +0200,Partly Cloudy,rain,27.12777778,27.63888889,0.52,3.542,88,16.1,0,1017.24,Mostly cloudy throughout the day.
+2016-09-11 11:00:00.000 +0200,Partly Cloudy,rain,28.54444444,28.36111111,0.42,6.9874,92,15.5526,0,1017.27,Mostly cloudy throughout the day.
+2016-09-11 12:00:00.000 +0200,Partly Cloudy,rain,28.98333333,28.62777778,0.4,9.4346,51,15.5526,0,1017.18,Mostly cloudy throughout the day.
+2016-09-11 13:00:00.000 +0200,Mostly Cloudy,rain,29.00555556,28.31666667,0.36,9.1448,40,16.1,0,1017.14,Mostly cloudy throughout the day.
+2016-09-11 14:00:00.000 +0200,Mostly Cloudy,rain,30.15,29.24444444,0.34,3.9123,100,10.5777,0,1016.92,Mostly cloudy throughout the day.
+2016-09-11 15:00:00.000 +0200,Mostly Cloudy,rain,30.13888889,29.33333333,0.35,14.6027,58,9.982,0,1016.34,Mostly cloudy throughout the day.
+2016-09-11 16:00:00.000 +0200,Mostly Cloudy,rain,32,31.28333333,0.34,12.6546,10,9.982,0,1016.43,Mostly cloudy throughout the day.
+2016-09-11 17:00:00.000 +0200,Mostly Cloudy,rain,30.42777778,29.57777778,0.35,10.6904,352,10.5777,0,1016.38,Mostly cloudy throughout the day.
+2016-09-11 18:00:00.000 +0200,Mostly Cloudy,rain,28.66111111,28.35555556,0.41,4.7978,352,9.982,0,1016.55,Mostly cloudy throughout the day.
+2016-09-11 19:00:00.000 +0200,Mostly Cloudy,rain,24.86111111,24.86111111,0.55,1.5295,10,9.982,0,1016.55,Mostly cloudy throughout the day.
+2016-09-11 20:00:00.000 +0200,Mostly Cloudy,rain,23.97777778,23.97777778,0.59,9.2575,150,15.1823,0,1017.64,Mostly cloudy throughout the day.
+2016-09-11 21:00:00.000 +0200,Mostly Cloudy,rain,21.03888889,21.03888889,0.69,4.83,270,16.1,0,1017.94,Mostly cloudy throughout the day.
+2016-09-11 22:00:00.000 +0200,Partly Cloudy,rain,19.90555556,19.90555556,0.71,6.2951,310,16.1,0,1018.14,Mostly cloudy throughout the day.
+2016-09-11 23:00:00.000 +0200,Partly Cloudy,rain,19.13333333,19.13333333,0.76,3.1878,274,15.1823,0,1018.25,Mostly cloudy throughout the day.
+2016-09-12 00:00:00.000 +0200,Partly Cloudy,rain,18.21666667,18.21666667,0.82,3.1556,298,16.0517,0,1018.36,Partly cloudy throughout the day.
+2016-09-12 01:00:00.000 +0200,Partly Cloudy,rain,17.15,17.15,0.82,11.27,320,15.9229,0,1018.65,Partly cloudy throughout the day.
+2016-09-12 02:00:00.000 +0200,Partly Cloudy,rain,17.02777778,17.02777778,0.84,3.0268,276,14.9569,0,1018.65,Partly cloudy throughout the day.
+2016-09-12 03:00:00.000 +0200,Partly Cloudy,rain,16.13888889,16.13888889,0.87,3.1878,322,15.8263,0,1018.45,Partly cloudy throughout the day.
+2016-09-12 04:00:00.000 +0200,Partly Cloudy,rain,16.11666667,16.11666667,0.87,10.465,340,14.9086,0,1018.35,Partly cloudy throughout the day.
+2016-09-12 05:00:00.000 +0200,Partly Cloudy,rain,16.35,16.35,0.88,3.7191,16,14.168,0,1018.44,Partly cloudy throughout the day.
+2016-09-12 06:00:00.000 +0200,Partly Cloudy,rain,15.14444444,15.14444444,0.87,8.05,340,9.982,0,1018.46,Partly cloudy throughout the day.
+2016-09-12 07:00:00.000 +0200,Partly Cloudy,rain,17.20555556,NaN,0.87,3.3971,107,8.1305,0,1018.75,Partly cloudy throughout the day.
+2016-09-12 08:00:00.000 +0200,Partly Cloudy,rain,20.77777778,20.77777778,0.76,2.4633,28,10.1752,0,1019.03,Partly cloudy throughout the day.
+2016-09-12 09:00:00.000 +0200,Partly Cloudy,rain,22.78333333,22.78333333,0.67,4.2504,163,16.0517,0,1019.13,Partly cloudy throughout the day.
+2016-09-12 10:00:00.000 +0200,Partly Cloudy,rain,26.11111111,26.11111111,0.58,3.0751,172,16.1,0,1019.33,Partly cloudy throughout the day.
+2016-09-12 11:00:00.000 +0200,Partly Cloudy,rain,28.40555556,28.45,0.45,3.2844,189,15.5526,0,1019.16,Partly cloudy throughout the day.
+2016-09-12 12:00:00.000 +0200,Partly Cloudy,rain,29.92777778,29.36666667,0.38,3.1878,124,16.1,0,1018.84,Partly cloudy throughout the day.
+2016-09-12 13:00:00.000 +0200,Partly Cloudy,rain,31.03888889,30.03888889,0.33,7.1162,209,16.1,0,1018.54,Partly cloudy throughout the day.
+2016-09-12 14:00:00.000 +0200,Partly Cloudy,rain,31.76666667,30.52222222,0.3,3.4776,123,15.5526,0,1018.09,Partly cloudy throughout the day.
+2016-09-12 15:00:00.000 +0200,Partly Cloudy,rain,30.71111111,29.86666667,0.34,9.1609,2,16.1,0,1017.46,Partly cloudy throughout the day.
+2016-09-12 16:00:00.000 +0200,Partly Cloudy,rain,29.76111111,28.98333333,0.36,4.0572,94,10.2396,0,1017.18,Partly cloudy throughout the day.
+2016-09-12 17:00:00.000 +0200,Mostly Cloudy,rain,29.28333333,28.92777778,0.4,NaN,155,10.5777,0,1017.15,Partly cloudy throughout the day.
+2016-09-12 18:00:00.000 +0200,Mostly Cloudy,rain,26.25,26.25,0.48,10.6099,220,9.982,0,1017.61,Partly cloudy throughout the day.
+2016-09-12 19:00:00.000 +0200,Mostly Cloudy,rain,24.83333333,24.83333333,0.52,7.7441,321,9.982,0,1017.9,Partly cloudy throughout the day.
+2016-09-12 20:00:00.000 +0200,Mostly Cloudy,rain,23.41666667,23.41666667,0.59,11.27,9,10.5777,0,1017.71,Partly cloudy throughout the day.
+2016-09-12 21:00:00.000 +0200,Mostly Cloudy,rain,22.52777778,22.52777778,0.6,2.898,5,10.2557,0,1018.14,Partly cloudy throughout the day.
+2016-09-12 22:00:00.000 +0200,Mostly Cloudy,rain,21.92222222,21.92222222,0.66,3.22,340,16.1,0,1018.05,Partly cloudy throughout the day.
+2016-09-12 23:00:00.000 +0200,Mostly Cloudy,rain,21.91111111,21.91111111,0.66,9.1931,261,15.1501,0,1018.17,Partly cloudy throughout the day.
+2016-09-13 00:00:00.000 +0200,Partly Cloudy,rain,21.27777778,21.27777778,0.67,0,0,16.0517,0,1017.78,Partly cloudy overnight.
+2016-09-13 01:00:00.000 +0200,Partly Cloudy,rain,19.16666667,19.16666667,0.72,3.1717,12,15.9229,0,1017.77,Partly cloudy overnight.
+2016-09-13 02:00:00.000 +0200,Partly Cloudy,rain,18.62777778,18.62777778,0.79,2.6082,282,14.9569,0,1017.82,Partly cloudy overnight.
+2016-09-13 03:00:00.000 +0200,Clear,rain,17.17222222,17.17222222,0.86,5.474,188,14.9569,0,1017.77,Partly cloudy overnight.
+2016-09-13 04:00:00.000 +0200,Clear,rain,16.57777778,16.57777778,0.85,0,0,15.7297,0,1017.65,Partly cloudy overnight.
+2016-09-13 05:00:00.000 +0200,Clear,rain,16.16111111,16.16111111,0.88,2.1413,305,14.8764,0,1017.64,Partly cloudy overnight.
+2016-09-13 06:00:00.000 +0200,Partly Cloudy,rain,15.07222222,15.07222222,0.88,0.1288,340,9.9015,0,1017.55,Partly cloudy overnight.
+2016-09-13 07:00:00.000 +0200,Partly Cloudy,rain,17.06666667,17.06666667,0.93,1.288,123,9.9015,0,1017.73,Partly cloudy overnight.
+2016-09-13 08:00:00.000 +0200,Partly Cloudy,rain,19.48888889,19.48888889,0.81,2.8819,165,9.9015,0,1017.74,Partly cloudy overnight.
+2016-09-13 09:00:00.000 +0200,Partly Cloudy,rain,22.13333333,22.13333333,0.73,4.2665,186,12.075,0,1017.83,Partly cloudy overnight.
+2016-09-13 10:00:00.000 +0200,Partly Cloudy,rain,24.95555556,24.95555556,0.59,3.0912,183,15.134,0,1017.83,Partly cloudy overnight.
+2016-09-13 11:00:00.000 +0200,Partly Cloudy,rain,26.92777778,27.29444444,0.49,3.9606,287,15.5204,0,1017.5,Partly cloudy overnight.
+2016-09-13 12:00:00.000 +0200,Partly Cloudy,rain,28.79444444,28.75555556,0.44,3.0912,29,16.0517,0,1017.04,Partly cloudy overnight.
+2016-09-13 13:00:00.000 +0200,Partly Cloudy,rain,29.90555556,29.17222222,0.36,7.7119,49,15.8263,0,1016.45,Partly cloudy overnight.
+2016-09-13 14:00:00.000 +0200,Partly Cloudy,rain,29.78333333,29.1,0.37,4.7656,36,10.3523,0,1015.61,Partly cloudy overnight.
+2016-09-13 15:00:00.000 +0200,Mostly Cloudy,rain,22.67777778,22.67777778,0.71,27.2412,89,9.982,0,1015.8,Partly cloudy overnight.
+2016-09-13 16:00:00.000 +0200,Overcast,rain,21.33333333,21.33333333,0.8,16.4703,238,8.1305,0,1016.12,Partly cloudy overnight.
+2016-09-13 17:00:00.000 +0200,Overcast,rain,18.55555556,18.55555556,0.88,18.7726,175,9.982,0,1016.96,Partly cloudy overnight.
+2016-09-13 18:00:00.000 +0200,Mostly Cloudy,rain,19.1,19.1,0.83,13.8621,149,10.2557,0,1015.96,Partly cloudy overnight.
+2016-09-13 19:00:00.000 +0200,Mostly Cloudy,rain,17.89444444,17.89444444,0.9,4.669,296,16.1,0,1015.73,Partly cloudy overnight.
+2016-09-13 20:00:00.000 +0200,Mostly Cloudy,rain,17.77777778,17.77777778,0.91,9.66,340,14.9569,0,1016.75,Partly cloudy overnight.
+2016-09-13 21:00:00.000 +0200,Partly Cloudy,rain,17.19444444,17.19444444,0.88,4.5885,42,15.7297,0,1016.78,Partly cloudy overnight.
+2016-09-13 22:00:00.000 +0200,Partly Cloudy,rain,16.10555556,16.10555556,0.93,3.22,40,11.8013,0,1016.41,Partly cloudy overnight.
+2016-09-13 23:00:00.000 +0200,Partly Cloudy,rain,15.20555556,15.20555556,0.96,3.0268,44,8.1466,0,1016.53,Partly cloudy overnight.
+2016-09-14 00:00:00.000 +0200,Partly Cloudy,rain,15.48333333,15.48333333,0.96,3.22,100,5.9731,0,1016.34,Foggy in the morning.
+2016-09-14 01:00:00.000 +0200,Partly Cloudy,rain,14.48888889,14.48888889,0.96,2.9302,290,5.9731,0,1016.14,Foggy in the morning.
+2016-09-14 02:00:00.000 +0200,Partly Cloudy,rain,14.65555556,14.65555556,0.96,2.6887,319,6.5849,0,1016.04,Foggy in the morning.
+2016-09-14 03:00:00.000 +0200,Partly Cloudy,rain,14.42222222,14.42222222,0.96,6.44,340,5.9731,0,1015.76,Foggy in the morning.
+2016-09-14 04:00:00.000 +0200,Partly Cloudy,rain,13.88888889,13.88888889,0.96,3.1717,18,4.8461,0,1015.46,Foggy in the morning.
+2016-09-14 05:00:00.000 +0200,Foggy,rain,13.14444444,13.14444444,0.99,3.2039,2,2.2218,0,1015.33,Foggy in the morning.
+2016-09-14 06:00:00.000 +0200,Foggy,rain,13.82222222,13.82222222,0.94,4.83,10,1.9642,0,1015.44,Foggy in the morning.
+2016-09-14 07:00:00.000 +0200,Foggy,rain,13.87222222,13.87222222,0.94,3.2039,321,1.9803,0,1015.64,Foggy in the morning.
+2016-09-14 08:00:00.000 +0200,Partly Cloudy,rain,15.31666667,15.31666667,0.99,0.2093,20,4.991,0,1015.7,Foggy in the morning.
+2016-09-14 09:00:00.000 +0200,Partly Cloudy,rain,18.82222222,18.82222222,0.9,1.8837,354,8.05,0,1015.74,Foggy in the morning.
+2016-09-14 10:00:00.000 +0200,Partly Cloudy,rain,21.16111111,21.16111111,0.78,3.0751,220,9.982,0,1015.82,Foggy in the morning.
+2016-09-14 11:00:00.000 +0200,Partly Cloudy,rain,23.73888889,23.73888889,0.66,1.3202,69,10.2235,0,1015.67,Foggy in the morning.
+2016-09-14 12:00:00.000 +0200,Partly Cloudy,rain,26.01666667,26.01666667,0.54,4.508,221,9.982,0,1015.52,Foggy in the morning.
+2016-09-14 13:00:00.000 +0200,Partly Cloudy,rain,26.13888889,26.13888889,0.5,7.1484,170,9.982,0,1015.23,Foggy in the morning.
+2016-09-14 14:00:00.000 +0200,Partly Cloudy,rain,27.02777778,27.22777778,0.46,3.22,197,10.3523,0,1014.95,Foggy in the morning.
+2016-09-14 15:00:00.000 +0200,Partly Cloudy,rain,27.15,27.38333333,0.47,4.83,160,9.982,0,1014.52,Foggy in the morning.
+2016-09-14 16:00:00.000 +0200,Partly Cloudy,rain,27.15,27.06111111,NaN,4.3309,171,9.982,0,1014.13,Foggy in the morning.
+2016-09-14 17:00:00.000 +0200,Partly Cloudy,rain,27.06111111,27.11666667,0.44,3.381,192,10.3523,0,1013.76,Foggy in the morning.
+2016-09-14 18:00:00.000 +0200,Partly Cloudy,rain,25.98888889,25.98888889,0.51,8.0017,279,15.8263,0,1013.83,Foggy in the morning.
+2016-09-14 19:00:00.000 +0200,Partly Cloudy,rain,22.65555556,22.65555556,0.63,4.7495,291,16.1,0,1014.23,Foggy in the morning.
+2016-09-14 20:00:00.000 +0200,Partly Cloudy,rain,20.93888889,20.93888889,0.74,2.9141,321,15.5204,0,1014.78,Foggy in the morning.
+2016-09-14 21:00:00.000 +0200,Partly Cloudy,rain,18.79444444,18.79444444,0.85,1.61,350,15.6975,0,1015.14,Foggy in the morning.
+2016-09-14 22:00:00.000 +0200,Partly Cloudy,rain,18.21666667,18.21666667,0.82,0,0,15.6492,0,1015.34,Foggy in the morning.
+2016-09-14 23:00:00.000 +0200,Partly Cloudy,rain,17.63888889,17.63888889,0.88,5.957,258,14.7154,0,1015.67,Foggy in the morning.
+2016-09-15 00:00:00.000 +0200,Partly Cloudy,rain,16.57777778,16.57777778,0.88,0,0,15.5526,0,1016.03,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 01:00:00.000 +0200,Clear,rain,15.99444444,15.99444444,0.94,0,0,9.7083,0,1015.93,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 02:00:00.000 +0200,Clear,rain,15.52777778,15.52777778,0.94,3.22,270,8.1788,0,1015.79,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 03:00:00.000 +0200,Clear,rain,15.05,15.05,0.96,0.6601,70,7.8729,0,1015.65,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 04:00:00.000 +0200,Clear,rain,14.45,14.45,0.93,3.0268,347,8.05,0,1015.63,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 05:00:00.000 +0200,Clear,rain,14.00555556,14.00555556,0.96,5.8282,37,8.3398,0,1015.64,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 06:00:00.000 +0200,Clear,rain,13.82222222,13.82222222,0.93,3.22,280,6.1985,0,1015.55,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 07:00:00.000 +0200,Clear,rain,14.86666667,14.86666667,0.93,0.1449,60,3.8318,0,1016.23,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 08:00:00.000 +0200,Clear,rain,18.51666667,18.51666667,0.91,2.7531,118,6.4883,0,1016.64,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 09:00:00.000 +0200,Clear,rain,22.01666667,22.01666667,0.73,3.0912,173,8.4203,0,1016.75,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 10:00:00.000 +0200,Clear,rain,24.83888889,24.83888889,0.62,7.3416,219,16.1,0,1016.93,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 11:00:00.000 +0200,Clear,rain,25.92222222,25.92222222,0.51,7.1162,228,15.1823,0,1017.06,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 12:00:00.000 +0200,Partly Cloudy,rain,27.15,27.40555556,0.48,9.3219,240,9.982,0,1016.92,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 13:00:00.000 +0200,Partly Cloudy,rain,27.24444444,27.45555556,0.47,1.5939,229,16.1,0,1016.91,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 14:00:00.000 +0200,Partly Cloudy,rain,27.77777778,27.60555556,0.42,2.3184,245,15.5526,0,1016.52,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 15:00:00.000 +0200,Partly Cloudy,rain,27.84444444,27.60555556,0.41,10.8997,239,16.1,0,1016.11,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 16:00:00.000 +0200,Partly Cloudy,rain,28.86111111,28.25555556,0.37,10.9158,230,16.1,0,1015.91,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 17:00:00.000 +0200,Partly Cloudy,rain,28.02222222,27.50555556,0.37,7.5026,259,15.5526,0,1015.64,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 18:00:00.000 +0200,Partly Cloudy,rain,26.15555556,26.15555556,0.47,4.4597,132,16.1,0,1015.4,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 19:00:00.000 +0200,Partly Cloudy,rain,22.70555556,22.70555556,0.66,4.83,130,16.1,0,1015.71,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 20:00:00.000 +0200,Partly Cloudy,rain,20.1,20.1,0.74,4.6529,109,15.1823,0,1016.05,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 21:00:00.000 +0200,Clear,rain,18.77222222,18.77222222,0.84,0,0,16.1,0,1016.43,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 22:00:00.000 +0200,Clear,rain,18.72777778,18.72777778,0.82,3.22,160,16.1,0,1016.63,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-15 23:00:00.000 +0200,Clear,rain,17.75555556,17.75555556,0.85,3.2039,199,14.9569,0,1016.84,Partly cloudy starting in the afternoon continuing until evening.
+2016-09-16 00:00:00.000 +0200,Clear,rain,17.10555556,17.10555556,0.9,0,0,14.9086,0,1016.72,Partly cloudy starting in the afternoon.
+2016-09-16 01:00:00.000 +0200,Clear,rain,16.50555556,16.50555556,0.9,6.1502,140,9.9015,0,1016.52,Partly cloudy starting in the afternoon.
+2016-09-16 02:00:00.000 +0200,Clear,rain,16.95,16.95,0.89,5.8926,142,8.3398,0,1016.67,Partly cloudy starting in the afternoon.
+2016-09-16 03:00:00.000 +0200,Clear,rain,15.46666667,15.46666667,0.93,3.22,150,7.9695,0,1016.73,Partly cloudy starting in the afternoon.
+2016-09-16 04:00:00.000 +0200,Clear,rain,15.41666667,15.41666667,0.96,3.22,170,6.0697,0,1016.63,Partly cloudy starting in the afternoon.
+2016-09-16 05:00:00.000 +0200,Clear,rain,14.98333333,14.98333333,0.96,2.6565,155,6.2951,0,1016.58,Partly cloudy starting in the afternoon.
+2016-09-16 06:00:00.000 +0200,Foggy,rain,14.90555556,14.90555556,1,7.5992,169,1.61,0,1016.51,Partly cloudy starting in the afternoon.
+2016-09-16 07:00:00.000 +0200,Clear,rain,15.97222222,15.97222222,0.93,4.6368,178,4.0733,0,1016.5,Partly cloudy starting in the afternoon.
+2016-09-16 08:00:00.000 +0200,Clear,rain,18.7,18.7,0.85,7.2611,163,4.186,0,1016.46,Partly cloudy starting in the afternoon.
+2016-09-16 09:00:00.000 +0200,Clear,rain,22.16111111,22.16111111,0.69,7.7441,162,5.1359,0,1016.22,Partly cloudy starting in the afternoon.
+2016-09-16 10:00:00.000 +0200,Clear,rain,24.97777778,24.97777778,0.58,9.3219,183,8.372,0,1016.31,Partly cloudy starting in the afternoon.
+2016-09-16 11:00:00.000 +0200,Clear,rain,27.06111111,27.31111111,0.47,11.6081,210,9.1931,0,1016.09,Partly cloudy starting in the afternoon.
+2016-09-16 12:00:00.000 +0200,Partly Cloudy,rain,28.86666667,28.78333333,0.43,12.3809,192,10.2074,0,1015.98,Partly cloudy starting in the afternoon.
+2016-09-16 13:00:00.000 +0200,Partly Cloudy,rain,28.88888889,28.53333333,0.4,14.1519,230,14.2485,0,1015.39,Partly cloudy starting in the afternoon.
+2016-09-16 14:00:00.000 +0200,Mostly Cloudy,rain,28.87222222,28.42777778,0.39,12.075,228,14.7637,0,1014.78,Partly cloudy starting in the afternoon.
+2016-09-16 15:00:00.000 +0200,Mostly Cloudy,rain,29.92777778,29.15555556,0.36,14.2485,211,15.1823,0,1014.29,Partly cloudy starting in the afternoon.
+2016-09-16 16:00:00.000 +0200,Mostly Cloudy,rain,29.90555556,29.06111111,0.35,15.4882,221,15.1823,0,1013.79,Partly cloudy starting in the afternoon.
+2016-09-16 17:00:00.000 +0200,Mostly Cloudy,rain,28.83333333,28.22777778,0.37,11.8979,223,14.7637,0,1013.44,Partly cloudy starting in the afternoon.
+2016-09-16 18:00:00.000 +0200,Mostly Cloudy,rain,27.77777778,27.71111111,0.44,7.8568,210,12.2521,0,1013,Partly cloudy starting in the afternoon.
+2016-09-16 19:00:00.000 +0200,Mostly Cloudy,rain,23.95555556,23.95555556,0.62,4.6207,152,12.2521,0,1012.7,Partly cloudy starting in the afternoon.
+2016-09-16 20:00:00.000 +0200,Mostly Cloudy,rain,22.78888889,22.78888889,0.66,8.7745,133,12.2843,0,1012.96,Partly cloudy starting in the afternoon.
+2016-09-16 21:00:00.000 +0200,Mostly Cloudy,rain,21.96666667,21.96666667,0.66,4.7495,NaN,12.2521,0,1012.83,Partly cloudy starting in the afternoon.
+2016-09-16 22:00:00.000 +0200,Partly Cloudy,rain,19.37777778,19.37777778,0.78,3.22,150,10.2074,0,1012.82,Partly cloudy starting in the afternoon.
+2016-09-16 23:00:00.000 +0200,Partly Cloudy,rain,18.43888889,18.43888889,0.81,3.381,186,8.5008,0,1012.97,Partly cloudy starting in the afternoon.
+2016-09-17 00:00:00.000 +0200,Partly Cloudy,rain,18.81666667,18.81666667,0.85,6.44,160,7.2128,0,1012.8,Partly cloudy throughout the day.
+2016-09-17 01:00:00.000 +0200,Partly Cloudy,rain,18.81666667,18.81666667,0.81,6.2951,139,7.1323,0,1012.21,Partly cloudy throughout the day.
+2016-09-17 02:00:00.000 +0200,Partly Cloudy,rain,18.72777778,18.72777778,0.83,9.8854,118,8.3398,0,1011.79,Partly cloudy throughout the day.
+2016-09-17 03:00:00.000 +0200,Partly Cloudy,rain,18.75,18.75,0.76,6.1502,130,8.05,0,1010.92,Partly cloudy throughout the day.
+2016-09-17 04:00:00.000 +0200,Partly Cloudy,rain,17.71111111,17.71111111,0.79,6.1663,130,8.05,0,1010.71,Partly cloudy throughout the day.
+2016-09-17 05:00:00.000 +0200,Mostly Cloudy,rain,17.66666667,17.66666667,0.81,6.2629,137,8.3398,0,1010.53,Partly cloudy throughout the day.
+2016-09-17 06:00:00.000 +0200,Mostly Cloudy,rain,17.77777778,17.77777778,0.79,12.6546,120,9.9015,0,1010.28,Partly cloudy throughout the day.
+2016-09-17 07:00:00.000 +0200,Mostly Cloudy,rain,17.85,17.85,0.78,12.397,131,14.7637,0,1010.21,Partly cloudy throughout the day.
+2016-09-17 08:00:00.000 +0200,Mostly Cloudy,rain,17.74444444,17.74444444,0.86,10.5777,151,14.7154,0,1010.42,Partly cloudy throughout the day.
+2016-09-17 09:00:00.000 +0200,Mostly Cloudy,rain,19.90555556,19.90555556,0.79,10.3201,150,15.6492,0,1009.93,Partly cloudy throughout the day.
+2016-09-17 10:00:00.000 +0200,Mostly Cloudy,rain,22.65555556,22.65555556,0.67,8.9033,168,15.6492,0,1009.84,Partly cloudy throughout the day.
+2016-09-17 11:00:00.000 +0200,Mostly Cloudy,rain,25.78888889,25.78888889,0.59,6.8747,180,15.2467,0,1009.89,Partly cloudy throughout the day.
+2016-09-17 12:00:00.000 +0200,Mostly Cloudy,rain,27.42777778,27.50555556,0.45,9.177,149,15.8263,0,1009.55,Partly cloudy throughout the day.
+2016-09-17 13:00:00.000 +0200,Mostly Cloudy,rain,28.47222222,28.06111111,0.4,10.0303,240,15.8263,0,1009.38,Partly cloudy throughout the day.
+2016-09-17 14:00:00.000 +0200,Mostly Cloudy,rain,28.33888889,27.93888889,0.4,10.6099,215,15.3111,0,1009.2,Partly cloudy throughout the day.
+2016-09-17 15:00:00.000 +0200,Breezy and Mostly Cloudy,rain,27.52222222,27.76666667,0.48,29.4469,260,9.982,0,1008.8,Partly cloudy throughout the day.
+2016-09-17 16:00:00.000 +0200,Mostly Cloudy,rain,25.08888889,25.08888889,0.54,19.3361,260,9.982,0,1009.71,Partly cloudy throughout the day.
+2016-09-17 17:00:00.000 +0200,Mostly Cloudy,rain,24.10555556,24.10555556,0.59,4.186,205,10.3523,0,1009.92,Partly cloudy throughout the day.
+2016-09-17 18:00:00.000 +0200,Partly Cloudy,rain,24.02777778,24.02777778,0.58,7.4543,172,9.982,0,1009.81,Partly cloudy throughout the day.
+2016-09-17 19:00:00.000 +0200,Partly Cloudy,rain,22.15,22.15,0.65,2.9141,152,10.2557,0,1010.02,Partly cloudy throughout the day.
+2016-09-17 20:00:00.000 +0200,Partly Cloudy,rain,20.12222222,20.12222222,0.73,6.6332,225,15.3111,0,1010.46,Partly cloudy throughout the day.
+2016-09-17 21:00:00.000 +0200,Partly Cloudy,rain,18.75,18.75,0.84,11.109,253,15.8263,0,1011.04,Partly cloudy throughout the day.
+2016-09-17 22:00:00.000 +0200,Partly Cloudy,rain,18.17777778,18.17777778,0.82,6.1985,261,16.1,0,1011.16,Partly cloudy throughout the day.
+2016-09-17 23:00:00.000 +0200,Partly Cloudy,rain,17.72222222,17.72222222,0.85,4.025,322,15.1823,0,1011.79,Partly cloudy throughout the day.
+2016-09-18 00:00:00.000 +0200,Partly Cloudy,rain,15.50555556,15.50555556,0.88,3.3488,307,16.1,0,1011.76,Mostly cloudy throughout the day.
+2016-09-18 01:00:00.000 +0200,Partly Cloudy,rain,16.47777778,16.47777778,0.88,3.0751,240,16.0517,0,1012.14,Mostly cloudy throughout the day.
+2016-09-18 02:00:00.000 +0200,Partly Cloudy,rain,16.56111111,16.56111111,0.86,3.3649,313,14.9569,0,1012.24,Mostly cloudy throughout the day.
+2016-09-18 03:00:00.000 +0200,Partly Cloudy,rain,14.83888889,14.83888889,0.93,11.27,310,15.8263,0,1012.05,Mostly cloudy throughout the day.
+2016-09-18 04:00:00.000 +0200,NaN,rain,14.77222222,14.77222222,0.93,6.4883,291,15.8263,0,1012.15,Mostly cloudy throughout the day.
+2016-09-18 05:00:00.000 +0200,Mostly Cloudy,rain,14.87222222,14.87222222,0.93,3.7191,330,14.9569,0,1012.1,Mostly cloudy throughout the day.
+2016-09-18 06:00:00.000 +0200,Mostly Cloudy,rain,14.26111111,14.26111111,0.93,6.1502,330,15.6492,0,1011.95,Mostly cloudy throughout the day.
+2016-09-18 07:00:00.000 +0200,Mostly Cloudy,rain,13.70555556,13.70555556,0.93,1.61,320,15.8263,0,1012.25,Mostly cloudy throughout the day.
+2016-09-18 08:00:00.000 +0200,Partly Cloudy,rain,16.01666667,16.01666667,0.88,4.8944,321,14.9569,0,1012.51,Mostly cloudy throughout the day.
+2016-09-18 09:00:00.000 +0200,Mostly Cloudy,rain,20.76666667,20.76666667,0.64,1.6744,351,16.1,0,1012.05,Mostly cloudy throughout the day.
+2016-09-18 10:00:00.000 +0200,Mostly Cloudy,rain,21.9,21.9,0.56,9.3541,312,16.1,0,1012.17,Mostly cloudy throughout the day.
+2016-09-18 11:00:00.000 +0200,Mostly Cloudy,rain,23.49444444,23.49444444,0.55,6.9391,310,15.5526,0,1011.99,Mostly cloudy throughout the day.
+2016-09-18 12:00:00.000 +0200,Mostly Cloudy,rain,23.81666667,23.81666667,0.49,8.8228,263,9.982,0,1011.64,Mostly cloudy throughout the day.
+2016-09-18 13:00:00.000 +0200,Mostly Cloudy,rain,24.92777778,24.92777778,0.45,8.8872,263,9.982,0,1011.53,Mostly cloudy throughout the day.
+2016-09-18 14:00:00.000 +0200,Mostly Cloudy,rain,25.9,25.9,0.4,10.3523,262,10.2557,0,1011.14,Mostly cloudy throughout the day.
+2016-09-18 15:00:00.000 +0200,Mostly Cloudy,rain,25.84444444,25.84444444,0.4,10.1913,283,10.5777,0,1010.76,Mostly cloudy throughout the day.
+2016-09-18 16:00:00.000 +0200,Mostly Cloudy,rain,24.95,24.95,0.45,2.898,258,16.1,0,1010.24,Mostly cloudy throughout the day.
+2016-09-18 17:00:00.000 +0200,Mostly Cloudy,rain,24.77222222,24.77222222,0.43,8.3559,294,15.5526,0,1009.81,Mostly cloudy throughout the day.
+2016-09-18 18:00:00.000 +0200,Mostly Cloudy,rain,23.75,23.75,0.49,4.83,313,16.1,0,1009.45,Mostly cloudy throughout the day.
+2016-09-18 19:00:00.000 +0200,Mostly Cloudy,rain,21.96111111,21.96111111,0.56,8.05,340,16.1,0,1009.38,Mostly cloudy throughout the day.
+2016-09-18 20:00:00.000 +0200,Mostly Cloudy,rain,21.73888889,21.73888889,0.6,7.4543,0,15.5526,0,1009.44,Mostly cloudy throughout the day.
+2016-09-18 21:00:00.000 +0200,Mostly Cloudy,rain,20.81111111,20.81111111,0.61,9.1126,20,16.1,0,1009.65,Mostly cloudy throughout the day.
+2016-09-18 22:00:00.000 +0200,Overcast,rain,20.23333333,20.23333333,0.63,10.8031,30,16.1,0,1009.56,Mostly cloudy throughout the day.
+2016-09-18 23:00:00.000 +0200,Overcast,rain,20.17777778,20.17777778,0.63,10.4167,21,15.1823,0,1009.43,Mostly cloudy throughout the day.
+2016-09-19 00:00:00.000 +0200,Overcast,rain,19.83333333,19.83333333,0.64,12.1877,351,10.2557,0,1009.15,Overcast throughout the day.
+2016-09-19 01:00:00.000 +0200,Overcast,rain,18.81666667,18.81666667,0.75,6.0536,343,15.1823,0,1009.05,Overcast throughout the day.
+2016-09-19 02:00:00.000 +0200,Overcast,rain,17.63888889,17.63888889,0.84,5.796,16,15.1823,0,1008.55,Overcast throughout the day.
+2016-09-19 03:00:00.000 +0200,Overcast,rain,17.10555556,17.10555556,0.9,3.2039,299,16.1,0,1008.16,Overcast throughout the day.
+2016-09-19 04:00:00.000 +0200,Overcast,rain,17.08333333,17.08333333,0.9,3.3166,315,16.1,0,1007.67,Overcast throughout the day.
+2016-09-19 05:00:00.000 +0200,Overcast,rain,16.65,16.65,0.92,6.5688,315,15.1823,0,1007.6,Overcast throughout the day.
+2016-09-19 06:00:00.000 +0200,Overcast,rain,16.01666667,16.01666667,0.93,10.8353,322,10.2557,0,1006.89,Overcast throughout the day.
+2016-09-19 07:00:00.000 +0200,Overcast,rain,16.06111111,16.06111111,0.93,9.2092,332,10.2557,0,1006.48,Overcast throughout the day.
+2016-09-19 08:00:00.000 +0200,Overcast,rain,16.05555556,16.05555556,0.93,9.0321,310,9.8854,0,1006.4,Overcast throughout the day.
+2016-09-19 09:00:00.000 +0200,Overcast,rain,16.18333333,16.18333333,0.93,10.2235,294,10.2557,0,1006.36,Overcast throughout the day.
+2016-09-19 10:00:00.000 +0200,Overcast,rain,17.27222222,17.27222222,0.92,10.6743,323,16.1,0,1006.36,Overcast throughout the day.
+2016-09-19 11:00:00.000 +0200,Overcast,rain,17.61111111,17.61111111,0.91,9.7888,327,9.0965,0,1006.64,Overcast throughout the day.
+2016-09-19 12:00:00.000 +0200,Overcast,rain,17.32222222,17.32222222,0.92,5.0876,12,8.1305,0,1006.55,Overcast throughout the day.
+2016-09-19 13:00:00.000 +0200,Overcast,rain,17.82777778,17.82777778,0.96,10.304,353,8.1305,0,1006.27,Overcast throughout the day.
+2016-09-19 14:00:00.000 +0200,Overcast,rain,18.54444444,18.54444444,0.92,7.7119,352,7.7602,0,1006.03,Overcast throughout the day.
+2016-09-19 15:00:00.000 +0200,Overcast,rain,18.8,18.8,0.85,9.5473,329,9.982,0,1005.57,Overcast throughout the day.
+2016-09-19 16:00:00.000 +0200,Mostly Cloudy,rain,18.8,18.8,0.9,11.0124,329,9.982,0,1005.29,Overcast throughout the day.
+2016-09-19 17:00:00.000 +0200,Mostly Cloudy,rain,17.25555556,17.25555556,0.94,8.3398,127,4.8139,0,1005.27,NaN
+2016-09-19 18:00:00.000 +0200,Overcast,rain,17.68888889,17.68888889,0.97,11.1573,342,8.05,0,1004.8,Overcast throughout the day.
+2016-09-19 19:00:00.000 +0200,Overcast,rain,17.68888889,17.68888889,0.97,12.1716,312,6.2951,0,1004.99,Overcast throughout the day.
+2016-09-19 20:00:00.000 +0200,Overcast,rain,17.10555556,17.10555556,0.94,9.2414,276,5.152,0,1005.26,Overcast throughout the day.
+2016-09-19 21:00:00.000 +0200,Overcast,rain,17.08333333,17.08333333,0.93,14.0714,29,7.1323,0,1005.43,Overcast throughout the day.
+2016-09-19 22:00:00.000 +0200,Overcast,rain,16.55,16.55,0.97,13.7977,1,9.8049,0,1005.54,Overcast throughout the day.
+2016-09-19 23:00:00.000 +0200,Overcast,rain,16.47777778,16.47777778,0.94,16.3093,0,9.9015,0,1005.72,Overcast throughout the day.
+2016-09-02 00:00:00.000 +0200,Clear,rain,14.86111111,14.86111111,0.76,0.1449,300,16.1,0,1020.15,Partly cloudy starting in the morning.
+2016-09-02 01:00:00.000 +0200,Clear,rain,14.37777778,14.37777778,0.78,0.1449,300,16.1,0,1020.05,Partly cloudy starting in the morning.
+2016-09-02 02:00:00.000 +0200,Clear,rain,13.40555556,13.40555556,0.81,0.5313,328,15.1823,0,1019.89,Partly cloudy starting in the morning.
+2016-09-02 03:00:00.000 +0200,Clear,rain,12.73333333,12.73333333,0.81,0.3542,310,16.1,0,1019.75,Partly cloudy starting in the morning.
+2016-09-02 04:00:00.000 +0200,Clear,rain,12.2,12.2,0.81,8.05,290,16.1,0,1019.55,Partly cloudy starting in the morning.
+2016-09-02 05:00:00.000 +0200,Clear,rain,11.92777778,11.92777778,0.84,0.3059,317,15.1823,0,1019.47,Partly cloudy starting in the morning.
+2016-09-02 06:00:00.000 +0200,Partly Cloudy,rain,11.13888889,11.13888889,0.86,0,0,16.1,0,1019.73,Partly cloudy starting in the morning.
+2016-09-02 07:00:00.000 +0200,Partly Cloudy,rain,14.82222222,14.82222222,0.79,0,0,16.1,0,1019.74,Partly cloudy starting in the morning.
+2016-09-02 08:00:00.000 +0200,Partly Cloudy,rain,18.45555556,18.45555556,0.68,3.2039,316,15.1823,0,1019.75,Partly cloudy starting in the morning.
+2016-09-02 09:00:00.000 +0200,Partly Cloudy,rain,22.66666667,22.66666667,0.52,0.1449,40,16.1,0,1019.73,Partly cloudy starting in the morning.
+2016-09-02 10:00:00.000 +0200,Partly Cloudy,rain,24.93333333,24.93333333,0.43,1.6905,16,16.1,0,1019.83,Partly cloudy starting in the morning.
+2016-09-02 11:00:00.000 +0200,Partly Cloudy,rain,26.88333333,26.66111111,0.37,4.2021,305,15.5526,0,1019.76,Partly cloudy starting in the morning.
+2016-09-02 12:00:00.000 +0200,Partly Cloudy,rain,27.73333333,27.06666667,0.33,6.9874,221,16.1,0,1019.22,Partly cloudy starting in the morning.
+2016-09-02 13:00:00.000 +0200,Partly Cloudy,rain,27.75555556,27.07777778,0.33,7.7763,313,16.1,0,1018.73,Partly cloudy starting in the morning.
+2016-09-02 14:00:00.000 +0200,Partly Cloudy,rain,28.66666667,27.57777778,0.3,4.7173,349,10.5777,0,1018.37,Partly cloudy starting in the morning.
+2016-09-02 15:00:00.000 +0200,Partly Cloudy,rain,28.91111111,27.76666667,0.29,9.0804,29,16.1,0,1017.64,Partly cloudy starting in the morning.
+2016-09-02 16:00:00.000 +0200,Partly Cloudy,rain,28.86111111,27.62777778,0.27,10.7548,7,16.1,0,1017.52,Partly cloudy starting in the morning.
+2016-09-02 17:00:00.000 +0200,Partly Cloudy,rain,28.70555556,27.52222222,0.28,8.9033,342,15.5526,0,1017.33,Partly cloudy starting in the morning.
+2016-09-02 18:00:00.000 +0200,Partly Cloudy,rain,27.77777778,26.87777778,0.29,4.8139,331,NaN,0,1017.13,Partly cloudy starting in the morning.
+2016-09-02 19:00:00.000 +0200,Partly Cloudy,rain,23.90555556,23.90555556,0.42,7.7924,321,16.1,0,1016.94,Partly cloudy starting in the morning.
+2016-09-02 20:00:00.000 +0200,Partly Cloudy,rain,20.37222222,20.37222222,0.56,3.1556,322,15.5526,0,1017.46,Partly cloudy starting in the morning.
+2016-09-02 21:00:00.000 +0200,Partly Cloudy,rain,17.77777778,17.77777778,0.66,3.0912,340,16.1,0,1017.95,Partly cloudy starting in the morning.
+2016-09-02 22:00:00.000 +0200,Partly Cloudy,rain,18.22222222,18.22222222,0.64,6.1663,20,16.1,0,1018.25,Partly cloudy starting in the morning.
+2016-09-02 23:00:00.000 +0200,Partly Cloudy,rain,17.12222222,17.12222222,0.69,3.4132,5,15.1823,0,1018.58,Partly cloudy starting in the morning.
+2016-09-20 00:00:00.000 +0200,Overcast,rain,16.03888889,16.03888889,0.93,17.1787,10,9.9015,0,1006.02,Mostly cloudy throughout the day.
+2016-09-20 01:00:00.000 +0200,Overcast,rain,16.03888889,16.03888889,0.93,16.9211,351,11.8979,0,1006.13,Mostly cloudy throughout the day.
+2016-09-20 02:00:00.000 +0200,Overcast,rain,15.40555556,15.40555556,0.94,16.9211,350,6.6976,0,1006.41,Mostly cloudy throughout the day.
+2016-09-20 03:00:00.000 +0200,Overcast,rain,14.42222222,14.42222222,0.96,16.8406,350,4.1699,0,1006.53,Mostly cloudy throughout the day.
+2016-09-20 04:00:00.000 +0200,Overcast,rain,14.42222222,14.42222222,0.93,16.8406,339,4.1699,0,1006.73,Mostly cloudy throughout the day.
+2016-09-20 05:00:00.000 +0200,Mostly Cloudy,rain,14.35555556,14.35555556,0.91,16.8406,342,9.982,0,1007.15,Mostly cloudy throughout the day.
+2016-09-20 06:00:00.000 +0200,Mostly Cloudy,rain,13.83888889,13.83888889,0.9,16.9694,339,9.982,0,1007.35,Mostly cloudy throughout the day.
+2016-09-20 07:00:00.000 +0200,Mostly Cloudy,rain,13.81666667,13.81666667,0.9,16.9694,330,9.982,0,1007.94,Mostly cloudy throughout the day.
+2016-09-20 08:00:00.000 +0200,Partly Cloudy,rain,13.92777778,13.92777778,0.84,20.5275,340,10.1752,0,1008.52,Mostly cloudy throughout the day.
+2016-09-20 09:00:00.000 +0200,Mostly Cloudy,rain,16.04444444,16.04444444,0.72,26.2913,350,16.1,0,1008.74,Mostly cloudy throughout the day.
+2016-09-20 10:00:00.000 +0200,Partly Cloudy,rain,17.2,17.2,0.63,25.116,0,9.982,0,1009.32,Mostly cloudy throughout the day.
+2016-09-20 11:00:00.000 +0200,Partly Cloudy,rain,17.27777778,17.27777778,0.7,24.1661,1,10.3523,0,1010.12,Mostly cloudy throughout the day.
+2016-09-20 12:00:00.000 +0200,Mostly Cloudy,rain,18.81666667,18.81666667,0.67,21.9604,0,9.982,0,1010.3,Mostly cloudy throughout the day.
+2016-09-20 13:00:00.000 +0200,Mostly Cloudy,rain,18.86666667,18.86666667,0.56,21.8316,353,10.2557,0,1010.49,Mostly cloudy throughout the day.
+2016-09-20 14:00:00.000 +0200,Mostly Cloudy,rain,18.98888889,18.98888889,0.59,21.9926,343,10.5777,0,1010.66,Mostly cloudy throughout the day.
+2016-09-20 15:00:00.000 +0200,Mostly Cloudy,rain,18.98333333,18.98333333,0.56,20.0445,341,10.2557,0,1010.88,Mostly cloudy throughout the day.
+2016-09-20 16:00:00.000 +0200,Mostly Cloudy,rain,18.84444444,18.84444444,0.56,15.9873,348,10.2557,0,1010.99,Mostly cloudy throughout the day.
+2016-09-20 17:00:00.000 +0200,Mostly Cloudy,rain,18.76666667,18.76666667,0.53,14.8603,339,10.5777,0,1011.44,Mostly cloudy throughout the day.
+2016-09-20 18:00:00.000 +0200,Mostly Cloudy,rain,17.75555556,17.75555556,0.61,10.626,313,16.1,0,1011.97,Mostly cloudy throughout the day.
+2016-09-20 19:00:00.000 +0200,Mostly Cloudy,rain,17.12777778,17.12777778,0.71,13.4757,311,15.8263,0,1012.57,Mostly cloudy throughout the day.
+2016-09-20 20:00:00.000 +0200,Mostly Cloudy,rain,16.87222222,16.87222222,0.72,8.6457,10,15.1823,0,1013.33,Mostly cloudy throughout the day.
+2016-09-20 21:00:00.000 +0200,Mostly Cloudy,rain,15.85555556,15.85555556,0.57,15.4399,40,16.1,0,1014,Mostly cloudy throughout the day.
+2016-09-20 22:00:00.000 +0200,Overcast,rain,14.77222222,14.77222222,0.64,NaN,31,16.1,0,1014.77,Mostly cloudy throughout the day.
+2016-09-20 23:00:00.000 +0200,Overcast,rain,12.81111111,12.81111111,0.66,10.7709,31,15.1823,0,1015.32,Mostly cloudy throughout the day.
+2016-09-21 00:00:00.000 +0200,Overcast,rain,12.68888889,12.68888889,0.67,10.465,31,15.1823,0,1015.41,Mostly cloudy throughout the day.
+2016-09-21 01:00:00.000 +0200,Mostly Cloudy,rain,12.55,12.55,0.67,10.0786,31,15.1984,0,1015.51,Mostly cloudy throughout the day.
+2016-09-21 02:00:00.000 +0200,Mostly Cloudy,rain,12.40555556,12.40555556,0.68,9.6439,31,15.2145,0,1015.63,Mostly cloudy throughout the day.
+2016-09-21 03:00:00.000 +0200,Mostly Cloudy,rain,12.25,12.25,0.69,9.1609,31,15.2306,0,1015.75,Mostly cloudy throughout the day.
+2016-09-21 04:00:00.000 +0200,Mostly Cloudy,rain,12.08888889,12.08888889,0.69,8.6135,30,15.2628,0,1015.89,Mostly cloudy throughout the day.
+2016-09-21 05:00:00.000 +0200,Mostly Cloudy,rain,11.91666667,11.91666667,0.7,8.0339,30,15.295,0,1016.03,Mostly cloudy throughout the day.
+2016-09-21 06:00:00.000 +0200,Mostly Cloudy,rain,11.73888889,11.73888889,0.71,7.406,30,15.3272,0,1016.19,Mostly cloudy throughout the day.
+2016-09-21 07:00:00.000 +0200,Mostly Cloudy,rain,11.55555556,11.55555556,0.72,6.762,30,15.3755,0,1016.35,Mostly cloudy throughout the day.
+2016-09-21 08:00:00.000 +0200,Mostly Cloudy,rain,11.37222222,11.37222222,0.73,6.0858,29,15.4238,0,1016.51,Mostly cloudy throughout the day.
+2016-09-21 09:00:00.000 +0200,Mostly Cloudy,rain,11.18333333,11.18333333,0.74,5.3935,29,15.456,0,1016.68,Mostly cloudy throughout the day.
+2016-09-21 10:00:00.000 +0200,Mostly Cloudy,rain,10.99444444,10.99444444,0.75,4.6851,28,15.5043,0,1016.85,Mostly cloudy throughout the day.
+2016-09-21 11:00:00.000 +0200,Mostly Cloudy,rain,10.80555556,10.80555556,0.76,3.9767,27,15.5526,0,1017.03,Mostly cloudy throughout the day.
+2016-09-21 12:00:00.000 +0200,Mostly Cloudy,rain,10.62222222,10.62222222,0.77,3.2683,26,15.617,0,1017.2,Mostly cloudy throughout the day.
+2016-09-21 13:00:00.000 +0200,Partly Cloudy,rain,10.43888889,10.43888889,0.78,2.5599,24,15.6653,0,1017.37,Mostly cloudy throughout the day.
+2016-09-21 14:00:00.000 +0200,Partly Cloudy,rain,10.25555556,10.25555556,0.79,1.8837,20,15.7136,0,1017.54,Mostly cloudy throughout the day.
+2016-09-21 15:00:00.000 +0200,Partly Cloudy,rain,10.08333333,10.08333333,0.8,1.2397,12,15.7619,0,1017.71,Mostly cloudy throughout the day.
+2016-09-21 16:00:00.000 +0200,Partly Cloudy,rain,9.916666667,9.916666667,0.81,0.6923,348,15.8102,0,1017.87,Mostly cloudy throughout the day.
+2016-09-21 17:00:00.000 +0200,Partly Cloudy,rain,9.761111111,9.761111111,0.81,0.5474,288,15.8585,0,1018.02,Mostly cloudy throughout the day.
+2016-09-21 18:00:00.000 +0200,Partly Cloudy,rain,9.611111111,9.611111111,0.82,0.9338,250,15.9068,0,1018.17,Mostly cloudy throughout the day.
+2016-09-21 19:00:00.000 +0200,Partly Cloudy,rain,9.472222222,9.472222222,0.83,1.4329,239,15.939,0,1018.31,Mostly cloudy throughout the day.
+2016-09-21 20:00:00.000 +0200,Partly Cloudy,rain,9.35,9.35,0.84,1.932,234,15.9873,0,1018.44,Mostly cloudy throughout the day.
+2016-09-21 21:00:00.000 +0200,Partly Cloudy,rain,9.233333333,9.233333333,0.84,2.3828,232,16.0195,0,1018.56,Mostly cloudy throughout the day.
+2016-09-21 22:00:00.000 +0200,Partly Cloudy,rain,9.138888889,9.138888889,0.85,2.8014,231,16.0517,0,1018.67,Mostly cloudy throughout the day.
+2016-09-21 23:00:00.000 +0200,Partly Cloudy,rain,9.055555556,9.055555556,0.85,3.1395,231,16.0839,0,1018.76,Mostly cloudy throughout the day.
+2016-09-22 00:00:00.000 +0200,Partly Cloudy,rain,8.994444444,8.994444444,0.86,3.4293,231,16.1,0,1018.84,Partly cloudy until evening.
+2016-09-22 01:00:00.000 +0200,Mostly Cloudy,rain,10.02777778,10.02777778,0.83,6.3434,297,16.1,0,1018.83,Partly cloudy until evening.
+2016-09-22 02:00:00.000 +0200,Mostly Cloudy,rain,NaN,10.52222222,0.84,5.8282,268,15.1823,0,1018.72,Partly cloudy until evening.
+2016-09-22 03:00:00.000 +0200,Mostly Cloudy,rain,10.48888889,10.48888889,0.84,3.0751,283,16.1,0,1018.55,Partly cloudy until evening.
+2016-09-22 04:00:00.000 +0200,Mostly Cloudy,rain,11.01666667,11.01666667,0.84,2.737,233,15.8263,0,1018.46,Partly cloudy until evening.
+2016-09-22 05:00:00.000 +0200,Mostly Cloudy,rain,11.02222222,11.02222222,0.84,4.5241,333,15.1501,0,1018.67,Partly cloudy until evening.
+2016-09-22 06:00:00.000 +0200,Mostly Cloudy,rain,11.03888889,11.03888889,0.86,7.5831,261,10.2557,0,1018.58,Partly cloudy until evening.
+2016-09-22 07:00:00.000 +0200,Overcast,rain,9.972222222,9.077777778,0.93,7.5831,291,15.134,0,1018.98,Partly cloudy until evening.
+2016-09-22 08:00:00.000 +0200,Mostly Cloudy,rain,11.00555556,11.00555556,0.93,4.5402,321,11.914,NaN,1019.56,Partly cloudy until evening.
+2016-09-22 09:00:00.000 +0200,Mostly Cloudy,rain,12.75555556,12.75555556,0.83,2.1574,84,10.2557,0,1020.06,Partly cloudy until evening.
+2016-09-22 10:00:00.000 +0200,Partly Cloudy,rain,14.97777778,14.97777778,0.78,9.2575,31,9.982,0,1020.66,Partly cloudy until evening.
+2016-09-22 11:00:00.000 +0200,Partly Cloudy,rain,14.94444444,14.94444444,0.68,10.9802,55,10.3523,0,1021.07,Partly cloudy until evening.
+2016-09-22 12:00:00.000 +0200,Partly Cloudy,rain,15.62222222,15.62222222,0.61,13.5884,40,16.1,0,1021.15,Partly cloudy until evening.
+2016-09-22 13:00:00.000 +0200,Partly Cloudy,rain,17.24444444,17.24444444,0.52,10.787,18,10.2557,0,1021.35,Partly cloudy until evening.
+2016-09-22 14:00:00.000 +0200,Partly Cloudy,rain,17.72777778,17.72777778,0.49,8.211,33,10.5777,0,1021.36,Partly cloudy until evening.
+2016-09-22 15:00:00.000 +0200,Partly Cloudy,rain,17.71111111,17.71111111,0.46,9.4185,8,10.2557,0,1020.97,Partly cloudy until evening.
+2016-09-22 16:00:00.000 +0200,Partly Cloudy,rain,17.80555556,17.80555556,0.43,9.4346,340,10.2557,0,1021.06,Partly cloudy until evening.
+2016-09-22 17:00:00.000 +0200,Partly Cloudy,rain,17.74444444,17.74444444,0.43,10.0947,27,15.5526,0,1021.3,Partly cloudy until evening.
+2016-09-22 18:00:00.000 +0200,Partly Cloudy,rain,17.15,17.15,0.48,3.5259,336,16.1,0,1021.64,Partly cloudy until evening.
+2016-09-22 19:00:00.000 +0200,Partly Cloudy,rain,12.8,12.8,0.72,7.9695,282,16.1,0,1021.95,Partly cloudy until evening.
+2016-09-22 20:00:00.000 +0200,Partly Cloudy,rain,11.12222222,11.12222222,0.78,4.4597,293,15.5526,0,1022.55,Partly cloudy until evening.
+2016-09-22 21:00:00.000 +0200,Clear,rain,9.933333333,8.933333333,0.83,8.05,290,16.1,0,1022.95,Partly cloudy until evening.
+2016-09-22 22:00:00.000 +0200,Clear,rain,9.333333333,8.6,0.89,6.44,290,16.1,0,1023.34,Partly cloudy until evening.
+2016-09-22 23:00:00.000 +0200,Clear,rain,9.144444444,8.522222222,0.87,5.9248,279,15.1501,0,1023.7,Partly cloudy until evening.
+2016-09-23 00:00:00.000 +0200,Clear,rain,8.2,8.2,0.89,3.0751,213,15.8263,0,1023.74,Partly cloudy starting in the morning.
+2016-09-23 01:00:00.000 +0200,Clear,rain,8.177777778,6.866666667,0.89,8.05,320,10.2074,0,1023.84,Partly cloudy starting in the morning.
+2016-09-23 02:00:00.000 +0200,Clear,rain,7.727777778,7.727777778,0.93,2.7692,221,9.982,0,1023.91,Partly cloudy starting in the morning.
+2016-09-23 03:00:00.000 +0200,Clear,rain,7.111111111,7.111111111,0.93,3.0751,223,9.982,0,1023.95,Partly cloudy starting in the morning.
+2016-09-23 04:00:00.000 +0200,Clear,rain,6.533333333,6.533333333,0.93,3.22,246,9.982,0,1024.14,Partly cloudy starting in the morning.
+2016-09-23 05:00:00.000 +0200,Clear,rain,7.538888889,7.538888889,0.88,3.0751,226,9.9015,0,1024.14,Partly cloudy starting in the morning.
+2016-09-23 06:00:00.000 +0200,Clear,rain,5.955555556,5.955555556,0.93,3.22,300,14.812,0,1024.35,Partly cloudy starting in the morning.
+2016-09-23 07:00:00.000 +0200,Partly Cloudy,rain,7,7,0.93,1.8676,266,14.7315,0,1024.73,Partly cloudy starting in the morning.
+2016-09-23 08:00:00.000 +0200,Partly Cloudy,rain,9.705555556,9.705555556,0.88,3.2844,246,14.0875,0,1025.01,Partly cloudy starting in the morning.
+2016-09-23 09:00:00.000 +0200,Partly Cloudy,rain,12.71666667,12.71666667,0.73,3.3971,273,15.8263,0,1025.05,Partly cloudy starting in the morning.
+2016-09-23 10:00:00.000 +0200,Partly Cloudy,rain,17.10555556,17.10555556,0.58,7.9695,261,16.1,0,1025.52,Partly cloudy starting in the morning.
+2016-09-23 11:00:00.000 +0200,Partly Cloudy,rain,17.82777778,17.82777778,0.54,7.8568,280,15.5526,0,1025.75,Partly cloudy starting in the morning.
+2016-09-23 12:00:00.000 +0200,Partly Cloudy,rain,18.91111111,18.91111111,0.43,10.5777,253,10.2557,0,1025.42,Partly cloudy starting in the morning.
+2016-09-23 13:00:00.000 +0200,Partly Cloudy,rain,20.02222222,20.02222222,0.44,10.7226,273,10.2557,0,1025.52,Partly cloudy starting in the morning.
+2016-09-23 14:00:00.000 +0200,Partly Cloudy,rain,19.94444444,19.94444444,0.35,7.084,269,10.5777,0,1025.36,Partly cloudy starting in the morning.
+2016-09-23 15:00:00.000 +0200,Partly Cloudy,rain,20.04444444,20.04444444,0.37,11.914,271,10.2557,0,1025.13,Partly cloudy starting in the morning.
+2016-09-23 16:00:00.000 +0200,Partly Cloudy,rain,20.04444444,20.04444444,0.37,9.3219,NaN,10.2557,0,1025.12,Partly cloudy starting in the morning.
+2016-09-23 17:00:00.000 +0200,Partly Cloudy,rain,19.94444444,19.94444444,0.39,9.8693,274,10.5777,0,1025.07,Partly cloudy starting in the morning.
+2016-09-23 18:00:00.000 +0200,Partly Cloudy,rain,18.83888889,18.83888889,0.43,4.7495,270,16.1,0,1025.22,Partly cloudy starting in the morning.
+2016-09-23 19:00:00.000 +0200,Partly Cloudy,rain,13.88333333,13.88333333,0.72,3.22,320,16.1,0,1025.63,Partly cloudy starting in the morning.
+2016-09-23 20:00:00.000 +0200,Partly Cloudy,rain,12.11111111,12.11111111,0.8,1.6261,267,15.1823,0,1026.21,Partly cloudy starting in the morning.
+2016-09-23 21:00:00.000 +0200,Partly Cloudy,rain,10.97222222,10.97222222,0.81,0,0,16.1,0,1026.32,Partly cloudy starting in the morning.
+2016-09-23 22:00:00.000 +0200,Partly Cloudy,rain,10.44444444,10.44444444,0.86,3.22,140,16.1,0,1026.43,Partly cloudy starting in the morning.
+2016-09-23 23:00:00.000 +0200,Mostly Cloudy,rain,10.27777778,10.27777778,0.87,3.22,200,15.1823,0,1026.77,Partly cloudy starting in the morning.
+2016-09-24 00:00:00.000 +0200,Partly Cloudy,rain,8.311111111,8.311111111,0.93,0,0,12.2521,0,1026.82,Partly cloudy starting in the morning.
+2016-09-24 01:00:00.000 +0200,Clear,rain,7.755555556,7.755555556,0.96,0,0,8.372,0,1026.82,Partly cloudy starting in the morning.
+2016-09-24 02:00:00.000 +0200,Clear,rain,7.4,7.4,0.96,3.22,200,7.6314,0,1026.87,Partly cloudy starting in the morning.
+2016-09-24 03:00:00.000 +0200,Clear,rain,6.644444444,6.644444444,0.96,3.22,210,7.2128,0,1026.91,Partly cloudy starting in the morning.
+2016-09-24 04:00:00.000 +0200,Partly Cloudy,rain,6.6,6.6,0.96,0,0,6.2951,0,1026.82,Partly cloudy starting in the morning.
+2016-09-24 05:00:00.000 +0200,Partly Cloudy,rain,6.672222222,6.672222222,0.96,2.7692,155,4.3631,0,1026.96,Partly cloudy starting in the morning.
+2016-09-24 06:00:00.000 +0200,Partly Cloudy,rain,7.594444444,7.594444444,1,4.83,160,6.2951,0,1026.93,Partly cloudy starting in the morning.
+2016-09-24 07:00:00.000 +0200,Mostly Cloudy,rain,8.638888889,8.638888889,0.93,1.61,190,8.1305,0,1027.04,Partly cloudy starting in the morning.
+2016-09-24 08:00:00.000 +0200,Mostly Cloudy,rain,10.62777778,10.62777778,0.87,2.9302,181,11.6886,0,1027.46,Partly cloudy starting in the morning.
+2016-09-24 09:00:00.000 +0200,Partly Cloudy,rain,14.86666667,14.86666667,0.73,3.22,200,16.0517,0,1027.42,Partly cloudy starting in the morning.
+2016-09-24 10:00:00.000 +0200,Partly Cloudy,rain,17.24444444,17.24444444,0.58,2.9624,172,16.0517,0,1027.42,Partly cloudy starting in the morning.
+2016-09-24 11:00:00.000 +0200,Partly Cloudy,rain,18.93333333,18.93333333,0.54,4.4597,215,15.5526,0,1027.35,Partly cloudy starting in the morning.
+2016-09-24 12:00:00.000 +0200,Partly Cloudy,rain,21.08888889,21.08888889,0.46,7.5187,213,10.2557,0,1027.02,Partly cloudy starting in the morning.
+2016-09-24 13:00:00.000 +0200,Partly Cloudy,rain,22.2,22.2,0.35,5.2164,270,16.1,0,1026.72,Partly cloudy starting in the morning.
+2016-09-24 14:00:00.000 +0200,Partly Cloudy,rain,21.13888889,21.13888889,0.4,7.8729,349,15.5526,0,1026.27,Partly cloudy starting in the morning.
+2016-09-24 15:00:00.000 +0200,Partly Cloudy,rain,21.22777778,21.22777778,0.41,4.9749,297,16.1,0,1025.41,Partly cloudy starting in the morning.
+2016-09-24 16:00:00.000 +0200,Mostly Cloudy,rain,21.17777778,21.17777778,0.42,3.3166,331,16.1,0,1024.72,Partly cloudy starting in the morning.
+2016-09-24 17:00:00.000 +0200,Mostly Cloudy,rain,21.03888889,21.03888889,0.38,6.4239,326,15.5526,0,1024.8,Partly cloudy starting in the morning.
+2016-09-24 18:00:00.000 +0200,Mostly Cloudy,rain,19.92777778,19.92777778,0.53,0.3703,0,16.1,0,1024.61,Partly cloudy starting in the morning.
+2016-09-24 19:00:00.000 +0200,Mostly Cloudy,rain,16.11111111,16.11111111,0.71,0,0,16.1,0,1024.62,Partly cloudy starting in the morning.
+2016-09-24 20:00:00.000 +0200,Mostly Cloudy,rain,14.90555556,14.90555556,0.77,2.6565,200,15.1823,0,1024.81,Partly cloudy starting in the morning.
+2016-09-24 21:00:00.000 +0200,Mostly Cloudy,rain,13.79444444,13.79444444,0.83,3.0268,NaN,16.1,0,1024.65,Partly cloudy starting in the morning.
+2016-09-24 22:00:00.000 +0200,Mostly Cloudy,rain,14.16666667,14.16666667,0.84,2.9624,182,16.1,0,1024.64,Partly cloudy starting in the morning.
+2016-09-24 23:00:00.000 +0200,Mostly Cloudy,rain,13.68888889,13.68888889,0.84,3.5098,234,15.1501,0,1024.58,Partly cloudy starting in the morning.
+2016-09-25 00:00:00.000 +0200,Partly Cloudy,rain,12.52777778,12.52777778,0.86,3.22,320,16.0517,0,1024.15,Mostly cloudy until night.
+2016-09-25 01:00:00.000 +0200,Partly Cloudy,rain,11.41666667,11.41666667,0.9,3.22,310,15.9229,0,1023.66,Mostly cloudy until night.
+2016-09-25 02:00:00.000 +0200,Partly Cloudy,rain,10.45555556,10.45555556,0.93,3.22,250,15.0213,0,1023.6,Mostly cloudy until night.
+2016-09-25 03:00:00.000 +0200,Partly Cloudy,rain,9.305555556,9.305555556,0.93,3.22,320,8.1305,0,1023.37,Mostly cloudy until night.
+2016-09-25 04:00:00.000 +0200,Mostly Cloudy,rain,9.261111111,8.555555556,0.96,6.2951,340,9.9015,0,1023.17,Mostly cloudy until night.
+2016-09-25 05:00:00.000 +0200,Clear,rain,8.8,8.116666667,0.96,5.9731,351,8.2593,0,1023.07,Mostly cloudy until night.
+2016-09-25 06:00:00.000 +0200,Clear,rain,7.777777778,7.777777778,0.96,4.6207,0,3.2844,0,1023.71,Mostly cloudy until night.
+2016-09-25 07:00:00.000 +0200,Mostly Cloudy,rain,8.838888889,8.838888889,1,4.5402,349,6.1985,0,1022.88,Mostly cloudy until night.
+2016-09-25 08:00:00.000 +0200,Mostly Cloudy,rain,10.96666667,10.96666667,0.87,6.6654,2,7.5509,0,1022.93,Mostly cloudy until night.
+2016-09-25 09:00:00.000 +0200,Mostly Cloudy,rain,12.80555556,12.80555556,0.83,4.6207,10,11.9784,0,1023.05,Mostly cloudy until night.
+2016-09-25 10:00:00.000 +0200,Mostly Cloudy,rain,15.09444444,15.09444444,0.72,7.7602,21,12.075,0,1023.05,Mostly cloudy until night.
+2016-09-25 11:00:00.000 +0200,Overcast,rain,17.8,17.8,0.56,10.8514,41,14.2163,0,1022.74,Mostly cloudy until night.
+2016-09-25 12:00:00.000 +0200,Overcast,rain,18.95555556,18.95555556,0.52,10.7709,32,15.1823,0,1022.23,Mostly cloudy until night.
+2016-09-25 13:00:00.000 +0200,Overcast,rain,18.97777778,18.97777778,0.48,10.7548,40,16.1,0,1021.64,Mostly cloudy until night.
+2016-09-25 14:00:00.000 +0200,Overcast,rain,20.08888889,20.08888889,0.45,10.4489,21,10.5777,0,1021,Mostly cloudy until night.
+2016-09-25 15:00:00.000 +0200,Overcast,rain,19.99444444,19.99444444,0.49,12.1233,31,9.982,0,1020.44,Mostly cloudy until night.
+2016-09-25 16:00:00.000 +0200,Mostly Cloudy,rain,19.99444444,19.99444444,0.49,10.6421,2,15.8263,0,1020.13,Mostly cloudy until night.
+2016-09-25 17:00:00.000 +0200,Overcast,rain,18.98333333,18.98333333,0.51,10.4489,1,15.5526,0,1019.85,Mostly cloudy until night.
+2016-09-25 18:00:00.000 +0200,Mostly Cloudy,rain,17.82222222,17.82222222,0.6,9.338,1,16.1,0,1019.94,Mostly cloudy until night.
+2016-09-25 19:00:00.000 +0200,Mostly Cloudy,rain,15.94444444,15.94444444,0.72,9.3219,1,16.1,0,1020.04,Mostly cloudy until night.
+2016-09-25 20:00:00.000 +0200,Mostly Cloudy,rain,13.93888889,13.93888889,0.77,4.8783,358,15.5526,0,1020.46,Mostly cloudy until night.
+2016-09-25 21:00:00.000 +0200,Mostly Cloudy,rain,13.61111111,13.61111111,0.78,7.9695,358,16.1,0,1020.66,Mostly cloudy until night.
+2016-09-25 22:00:00.000 +0200,Mostly Cloudy,rain,13.05555556,13.05555556,0.78,6.0214,359,15.7297,0,1020.76,Mostly cloudy until night.
+2016-09-25 23:00:00.000 +0200,Mostly Cloudy,rain,12.95,12.95,0.81,5.9731,0,14.8764,0,1020.8,Mostly cloudy until night.
+2016-09-26 00:00:00.000 +0200,Partly Cloudy,rain,11.09444444,11.09444444,0.86,6.4722,2,15.8263,0,1020.96,Partly cloudy until night.
+2016-09-26 01:00:00.000 +0200,Partly Cloudy,rain,10.00555556,10.00555556,0.86,6.2146,342,14.9891,0,1020.95,Partly cloudy until night.
+2016-09-26 02:00:00.000 +0200,Partly Cloudy,rain,9.583333333,8.95,0.86,6.1985,351,14.3934,0,1020.92,Partly cloudy until night.
+2016-09-26 03:00:00.000 +0200,Partly Cloudy,rain,8.427777778,7.555555556,0.93,6.4239,342,15.1823,0,1020.95,Partly cloudy until night.
+2016-09-26 04:00:00.000 +0200,Partly Cloudy,rain,8.288888889,7.388888889,0.9,6.4722,352,15.1823,0,1020.67,Partly cloudy until night.
+2016-09-26 05:00:00.000 +0200,Partly Cloudy,rain,7.938888889,6.911111111,0.93,6.7298,359,14.3612,0,1020.82,Partly cloudy until night.
+2016-09-26 06:00:00.000 +0200,Partly Cloudy,rain,8.794444444,7.016666667,0.89,11.109,19,14.9086,0,1020.87,Partly cloudy until night.
+2016-09-26 07:00:00.000 +0200,Clear,rain,7.805555556,7.311111111,0.96,4.8944,323,15.134,0,1021.08,Partly cloudy until night.
+2016-09-26 08:00:00.000 +0200,Partly Cloudy,rain,10.73888889,10.73888889,0.83,7.7763,11,14.3934,0,1021.75,Partly cloudy until night.
+2016-09-26 09:00:00.000 +0200,Partly Cloudy,rain,12.78333333,12.78333333,0.77,7.9695,12,16.1,0,1021.94,Partly cloudy until night.
+2016-09-26 10:00:00.000 +0200,Partly Cloudy,rain,15.09444444,15.09444444,0.71,10.4972,343,16.1,0,1022.05,Partly cloudy until night.
+2016-09-26 11:00:00.000 +0200,Partly Cloudy,rain,17.25,17.25,0.56,9.1609,14,15.5526,0,1022.06,Partly cloudy until night.
+2016-09-26 12:00:00.000 +0200,Partly Cloudy,rain,18.91111111,18.91111111,0.47,12.3487,11,16.1,0,1021.85,Partly cloudy until night.
+2016-09-26 13:00:00.000 +0200,Partly Cloudy,rain,19.97777778,19.97777778,0.44,10.7548,342,16.1,0,1021.65,Partly cloudy until night.
+2016-09-26 14:00:00.000 +0200,Mostly Cloudy,rain,20.96111111,20.96111111,0.37,10.5938,31,15.5526,0,1021.53,Partly cloudy until night.
+2016-09-26 15:00:00.000 +0200,Mostly Cloudy,rain,21.06111111,21.06111111,0.3,7.889,58,16.1,0,1021.06,Partly cloudy until night.
+2016-09-26 16:00:00.000 +0200,Mostly Cloudy,rain,21.03888889,21.03888889,0.31,9.3058,351,16.1,0,1021.25,Partly cloudy until night.
+2016-09-26 17:00:00.000 +0200,Mostly Cloudy,rain,19.91666667,19.91666667,0.36,7.9856,353,15.5526,0,1021.36,Partly cloudy until night.
+2016-09-26 18:00:00.000 +0200,Mostly Cloudy,rain,18.86111111,18.86111111,0.43,7.6475,359,16.1,0,1021.64,Partly cloudy until night.
+2016-09-26 19:00:00.000 +0200,Mostly Cloudy,rain,16.96111111,16.96111111,0.55,4.7334,351,16.1,0,1021.95,Partly cloudy until night.
+2016-09-26 20:00:00.000 +0200,Mostly Cloudy,rain,14.71666667,14.71666667,0.64,3.1878,353,10.2235,0,1022.31,Partly cloudy until night.
+2016-09-26 21:00:00.000 +0200,Mostly Cloudy,rain,13.58333333,13.58333333,0.68,4.5241,349,16.1,0,1022.75,Partly cloudy until night.
+2016-09-26 22:00:00.000 +0200,Mostly Cloudy,rain,12.98333333,12.98333333,0.73,3.1717,358,16.0517,0,1023.07,Partly cloudy until night.
+2016-09-26 23:00:00.000 +0200,Mostly Cloudy,rain,12.47777778,12.47777778,0.75,5.7638,8,14.9569,0,1023.26,Partly cloudy until night.
+2016-09-27 00:00:00.000 +0200,Mostly Cloudy,rain,10.25,10.25,0.84,0.1449,330,15.8263,0,1023.26,Partly cloudy until evening.
+2016-09-27 01:00:00.000 +0200,Mostly Cloudy,rain,9.772222222,9.772222222,0.86,3.2039,321,16.0517,0,1023.55,Partly cloudy until evening.
+2016-09-27 02:00:00.000 +0200,Partly Cloudy,rain,8.838888889,8.838888889,0.89,2.9141,337,11.2378,0,1023.81,Partly cloudy until evening.
+2016-09-27 03:00:00.000 +0200,Partly Cloudy,rain,7.8,7.8,0.89,3.1234,323,16.1,0,1023.66,Partly cloudy until evening.
+2016-09-27 04:00:00.000 +0200,Partly Cloudy,rain,6.85,5.822222222,0.92,6.1502,341,16.1,0,1023.65,Partly cloudy until evening.
+2016-09-27 05:00:00.000 +0200,Partly Cloudy,rain,7.055555556,7.055555556,0.9,3.1395,84,15.1823,0,1023.92,Partly cloudy until evening.
+2016-09-27 06:00:00.000 +0200,Partly Cloudy,rain,6.177777778,6.177777778,0.93,3.0751,350,16.0517,0,1023.85,Partly cloudy until evening.
+2016-09-27 07:00:00.000 +0200,Partly Cloudy,rain,6.177777778,6.177777778,0.93,4.5563,340,8.2754,0,1024.34,Partly cloudy until evening.
+2016-09-27 08:00:00.000 +0200,Partly Cloudy,rain,7.605555556,7.605555556,0.93,1.2075,3,8.6135,0,1024.74,Partly cloudy until evening.
+2016-09-27 09:00:00.000 +0200,Partly Cloudy,rain,9.188888889,9.188888889,0.88,3.3971,355,15.1823,0,1024.84,Partly cloudy until evening.
+2016-09-27 10:00:00.000 +0200,Partly Cloudy,rain,14.12222222,14.12222222,0.75,0.3542,29,10.2557,0,1025.42,Partly cloudy until evening.
+2016-09-27 11:00:00.000 +0200,Partly Cloudy,rain,17.85,17.85,0.54,4.2665,122,10.5777,0,1025.42,Partly cloudy until evening.
+2016-09-27 12:00:00.000 +0200,Partly Cloudy,rain,18.98333333,18.98333333,0.48,3.3327,82,10.2557,0,1025.61,Partly cloudy until evening.
+2016-09-27 13:00:00.000 +0200,Partly Cloudy,rain,21.06111111,21.06111111,0.38,4.8139,51,10.2557,0,1025.44,Partly cloudy until evening.
+2016-09-27 14:00:00.000 +0200,Partly Cloudy,rain,21.97777778,21.97777778,0.36,6.2307,111,15.5526,0,1025.35,Partly cloudy until evening.
+2016-09-27 15:00:00.000 +0200,Partly Cloudy,rain,22.12777778,22.12777778,0.3,4.9588,1,16.1,0,1025.22,Partly cloudy until evening.
+2016-09-27 16:00:00.000 +0200,Partly Cloudy,rain,21.13333333,21.13333333,0.31,4.3631,129,16.1,0,1025.23,Partly cloudy until evening.
+2016-09-27 17:00:00.000 +0200,Partly Cloudy,rain,21.82777778,21.82777778,0.29,0.9821,302,15.5526,0,1025.19,Partly cloudy until evening.
+2016-09-27 18:00:00.000 +0200,Partly Cloudy,rain,19.87777778,19.87777778,0.41,NaN,3,16.1,0,1025.53,Partly cloudy until evening.
+2016-09-27 19:00:00.000 +0200,Partly Cloudy,rain,13.90555556,13.90555556,0.67,0,0,16.1,0,1026.33,Partly cloudy until evening.
+2016-09-27 20:00:00.000 +0200,Partly Cloudy,rain,13.14444444,13.14444444,0.67,3.0429,327,15.1823,0,1026.83,Partly cloudy until evening.
+2016-09-27 21:00:00.000 +0200,Clear,rain,12.01666667,12.01666667,0.75,3.0751,271,16.1,0,1027.43,Partly cloudy until evening.
+2016-09-27 22:00:00.000 +0200,Clear,rain,9.883333333,9.883333333,0.84,1.5295,250,16.0517,0,1027.75,Partly cloudy until evening.
+2016-09-27 23:00:00.000 +0200,Clear,rain,9.427777778,9.427777778,0.87,3.0107,344,14.9569,0,1028.18,Partly cloudy until evening.
+2016-09-28 00:00:00.000 +0200,Clear,rain,8.75,8.75,0.86,0,0,15.8263,0,1028.25,Partly cloudy starting in the afternoon.
+2016-09-28 01:00:00.000 +0200,Clear,rain,8.194444444,8.194444444,0.89,0,0,15.8263,0,1028.43,Partly cloudy starting in the afternoon.
+2016-09-28 02:00:00.000 +0200,Clear,rain,8.261111111,8.261111111,0.93,2.1413,175,14.168,0,1028.71,Partly cloudy starting in the afternoon.
+2016-09-28 03:00:00.000 +0200,Clear,rain,6.622222222,6.622222222,0.96,0.3542,290,14.9086,0,1028.64,Partly cloudy starting in the afternoon.
+2016-09-28 04:00:00.000 +0200,Clear,rain,6.627777778,6.627777778,0.93,3.1717,252,14.9086,0,1028.64,Partly cloudy starting in the afternoon.
+2016-09-28 05:00:00.000 +0200,Clear,rain,6.672222222,6.672222222,0.93,3.1234,234,14.168,0,1028.73,Partly cloudy starting in the afternoon.
+2016-09-28 06:00:00.000 +0200,Clear,rain,6.022222222,6.022222222,0.93,0,0,14.9086,0,1028.92,Partly cloudy starting in the afternoon.
+2016-09-28 07:00:00.000 +0200,Clear,rain,6.05,6.05,0.93,0,0,14.812,0,1029.12,Partly cloudy starting in the afternoon.
+2016-09-28 08:00:00.000 +0200,Partly Cloudy,rain,11.64444444,11.64444444,0.76,2.8819,160,14.8764,0,1029.48,Partly cloudy starting in the afternoon.
+2016-09-28 09:00:00.000 +0200,Clear,rain,14.92222222,14.92222222,0.63,0.3542,250,16.0517,0,1029.42,Partly cloudy starting in the afternoon.
+2016-09-28 10:00:00.000 +0200,Partly Cloudy,rain,18.86666667,18.86666667,0.52,3.2844,207,16.1,0,1029.49,Partly cloudy starting in the afternoon.
+2016-09-28 11:00:00.000 +0200,Clear,rain,21,21,0.39,7.2128,214,15.5526,0,1029.26,Partly cloudy starting in the afternoon.
+2016-09-28 12:00:00.000 +0200,Partly Cloudy,rain,22.2,22.2,0.33,9.3058,308,16.1,0,1029.31,Partly cloudy starting in the afternoon.
+2016-09-28 13:00:00.000 +0200,Partly Cloudy,rain,22.75555556,22.75555556,0.32,9.6922,258,16.1,0,1028.99,Partly cloudy starting in the afternoon.
+2016-09-28 14:00:00.000 +0200,Partly Cloudy,rain,22.76666667,22.76666667,0.32,10.0303,226,15.5526,0,1028.06,Partly cloudy starting in the afternoon.
+2016-09-28 15:00:00.000 +0200,Foggy,rain,22.8,22.8,0.32,10.9158,231,0.7245,0,1027.69,Partly cloudy starting in the afternoon.
+2016-09-28 16:00:00.000 +0200,Mostly Cloudy,rain,22.26666667,22.26666667,0.33,12.6224,279,16.1,0,1026.83,Partly cloudy starting in the afternoon.
+2016-09-28 17:00:00.000 +0200,Partly Cloudy,rain,22.18888889,22.18888889,0.33,9.8532,237,15.5526,0,1027.03,Partly cloudy starting in the afternoon.
+2016-09-28 18:00:00.000 +0200,Partly Cloudy,rain,20,20,0.4,7.8407,239,16.1,0,1027,Partly cloudy starting in the afternoon.
+2016-09-28 19:00:00.000 +0200,Mostly Cloudy,rain,17.68888889,17.68888889,0.5,8.9999,240,16.1,0,1027.2,Partly cloudy starting in the afternoon.
+2016-09-28 20:00:00.000 +0200,Mostly Cloudy,rain,16.03888889,16.03888889,0.57,8.533,243,15.5526,0,1027.61,Partly cloudy starting in the afternoon.
+2016-09-28 21:00:00.000 +0200,Mostly Cloudy,rain,13.85,13.85,0.67,4.9588,249,16.1,0,1027.69,Partly cloudy starting in the afternoon.
+2016-09-28 22:00:00.000 +0200,Mostly Cloudy,rain,15.33333333,15.33333333,0.61,11.1251,240,16.1,0,1027.51,Partly cloudy starting in the afternoon.
+2016-09-28 23:00:00.000 +0200,Mostly Cloudy,rain,14.27777778,14.27777778,0.65,10.0625,243,15.1823,0,1027.57,Partly cloudy starting in the afternoon.
+2016-09-29 00:00:00.000 +0200,Mostly Cloudy,rain,11.72222222,11.72222222,0.77,3.5259,224,16.1,0,1027.51,Partly cloudy until night.
+2016-09-29 01:00:00.000 +0200,Mostly Cloudy,rain,11.1,11.1,0.8,6.4239,204,16.1,0,1027.32,Partly cloudy until night.
+2016-09-29 02:00:00.000 +0200,Partly Cloudy,rain,9.966666667,9.966666667,0.84,3.3649,230,15.1823,0,1027.37,Partly cloudy until night.
+2016-09-29 03:00:00.000 +0200,Partly Cloudy,rain,9.988888889,9.988888889,0.83,3.3005,249,16.1,NaN,1027.1,Partly cloudy until night.
+2016-09-29 04:00:00.000 +0200,Mostly Cloudy,rain,9.455555556,9.455555556,0.89,3.3649,188,16.1,0,1026.8,Partly cloudy until night.
+2016-09-29 05:00:00.000 +0200,Partly Cloudy,rain,10.68333333,10.68333333,0.84,5.7155,200,15.1823,0,1026.8,Partly cloudy until night.
+2016-09-29 06:00:00.000 +0200,Partly Cloudy,rain,8.944444444,7.505555556,0.92,9.3541,192,16.1,0,1026.3,Partly cloudy until night.
+2016-09-29 07:00:00.000 +0200,Partly Cloudy,rain,8.944444444,8.944444444,0.92,4.6207,194,16.1,0,1026.02,Partly cloudy until night.
+2016-09-29 08:00:00.000 +0200,Mostly Cloudy,rain,12.5,12.5,0.79,7.4382,204,15.1823,0,1026.2,Partly cloudy until night.
+2016-09-29 09:00:00.000 +0200,Mostly Cloudy,rain,16.02777778,16.02777778,0.67,9.2414,212,16.1,0,1025.81,Partly cloudy until night.
+2016-09-29 10:00:00.000 +0200,Clear,rain,19.86111111,19.86111111,0.54,10.8031,240,0,0,1026.2,Partly cloudy until night.
+2016-09-29 11:00:00.000 +0200,Mostly Cloudy,rain,21.88333333,21.88333333,0.49,8.7262,248,15.5526,0,1025.45,Partly cloudy until night.
+2016-09-29 12:00:00.000 +0200,Mostly Cloudy,rain,22.8,22.8,0.51,8.533,262,16.1,0,1024.8,Partly cloudy until night.
+2016-09-29 13:00:00.000 +0200,Mostly Cloudy,rain,23.95555556,23.95555556,0.41,13.0088,280,16.1,0,1024.29,Partly cloudy until night.
+2016-09-29 14:00:00.000 +0200,Mostly Cloudy,rain,24.91666667,24.91666667,0.38,13.2503,245,15.5526,0,1023.84,Partly cloudy until night.
+2016-09-29 15:00:00.000 +0200,Mostly Cloudy,rain,24.97222222,24.97222222,0.39,13.7977,232,16.1,0,1022.99,Partly cloudy until night.
+2016-09-29 16:00:00.000 +0200,Mostly Cloudy,rain,25.04444444,25.04444444,0.39,14.0875,252,16.1,0,1022.3,Partly cloudy until night.
+2016-09-29 17:00:00.000 +0200,Mostly Cloudy,rain,24.82777778,24.82777778,0.38,12.0428,237,15.5526,0,1022.06,Partly cloudy until night.
+2016-09-29 18:00:00.000 +0200,Mostly Cloudy,rain,22.22222222,22.22222222,0.49,9.338,220,16.1,0,1021.79,Partly cloudy until night.
+2016-09-29 19:00:00.000 +0200,Partly Cloudy,rain,18.86666667,18.86666667,0.61,9.3219,220,16.1,0,1021.87,Partly cloudy until night.
+2016-09-29 20:00:00.000 +0200,Partly Cloudy,rain,17.14444444,17.14444444,0.67,7.6475,182,15.1823,0,1021.94,Partly cloudy until night.
+2016-09-29 21:00:00.000 +0200,Partly Cloudy,rain,14.93333333,14.93333333,0.78,8.05,180,16.1,0,1021.79,Partly cloudy until night.
+2016-09-29 22:00:00.000 +0200,Partly Cloudy,rain,15.42222222,15.42222222,0.73,6.279,181,16.1,0,1021.69,Partly cloudy until night.
+2016-09-29 23:00:00.000 +0200,Partly Cloudy,rain,14.17777778,14.17777778,0.79,5.5062,191,15.1823,0,1021.64,Partly cloudy until night.
+2016-09-03 00:00:00.000 +0200,Partly Cloudy,rain,16.04444444,16.04444444,0.76,6.279,340,16.1,0,1018.76,Partly cloudy starting in the afternoon.
+2016-09-03 01:00:00.000 +0200,Partly Cloudy,rain,15.49444444,15.49444444,0.79,6.1502,330,16.1,0,1018.86,Partly cloudy starting in the afternoon.
+2016-09-03 02:00:00.000 +0200,Partly Cloudy,rain,15.05555556,15.05555556,0.8,3.0751,354,15.1823,0,1018.87,Partly cloudy starting in the afternoon.
+2016-09-03 03:00:00.000 +0200,Clear,rain,13.91666667,13.91666667,0.86,0,0,16.1,0,1018.76,Partly cloudy starting in the afternoon.
+2016-09-03 04:00:00.000 +0200,Clear,rain,13.33333333,13.33333333,0.86,5.9087,310,16.1,0,1018.85,Partly cloudy starting in the afternoon.
+2016-09-03 05:00:00.000 +0200,Clear,rain,13.45,13.45,0.87,6.3595,333,15.1501,0,1018.87,Partly cloudy starting in the afternoon.
+2016-09-03 06:00:00.000 +0200,Partly Cloudy,rain,12.73333333,12.73333333,0.91,4.7495,339,15.8263,0,1018.76,Partly cloudy starting in the afternoon.
+2016-09-03 07:00:00.000 +0200,Partly Cloudy,rain,14.91111111,14.91111111,0.87,3.0429,322,15.8263,0,1018.77,Partly cloudy starting in the afternoon.
+2016-09-03 08:00:00.000 +0200,Clear,rain,19.48333333,19.48333333,0.71,7.2772,2,15.1501,0,1018.9,Partly cloudy starting in the afternoon.
+2016-09-03 09:00:00.000 +0200,Partly Cloudy,rain,22.68888889,22.68888889,0.54,8.9838,22,16.1,0,1018.96,Partly cloudy starting in the afternoon.
+2016-09-03 10:00:00.000 +0200,Partly Cloudy,rain,26.01666667,26.01666667,0.44,4.347,25,16.1,0,1019.15,Partly cloudy starting in the afternoon.
+2016-09-03 11:00:00.000 +0200,Clear,rain,27.61666667,27.1,0.36,6.8425,350,15.5526,0,1019.14,Partly cloudy starting in the afternoon.
+2016-09-03 12:00:00.000 +0200,Partly Cloudy,rain,27.8,27.11666667,0.33,9.2736,339,16.1,0,1018.93,Partly cloudy starting in the afternoon.
+2016-09-03 13:00:00.000 +0200,Partly Cloudy,rain,28.86111111,27.84444444,0.32,8.9999,327,16.1,0,1018.63,Partly cloudy starting in the afternoon.
+2016-09-03 14:00:00.000 +0200,Partly Cloudy,rain,28.84444444,27.83888889,0.32,9.8693,356,15.5526,0,1018.21,Partly cloudy starting in the afternoon.
+2016-09-03 15:00:00.000 +0200,Partly Cloudy,rain,28.88333333,27.85555556,0.31,9.3058,318,16.1,0,1017.83,Partly cloudy starting in the afternoon.
+2016-09-03 16:00:00.000 +0200,Partly Cloudy,rain,28.93333333,27.78888889,0.29,10.8997,0,16.1,0,1017.43,Partly cloudy starting in the afternoon.
+2016-09-03 17:00:00.000 +0200,Partly Cloudy,rain,28.80555556,27.72222222,0.3,8.1949,347,15.5526,0,1017.17,Partly cloudy starting in the afternoon.
+2016-09-03 18:00:00.000 +0200,Partly Cloudy,rain,27.77777778,27.11111111,0.34,4.8622,351,16.1,0,1017.13,Partly cloudy starting in the afternoon.
+2016-09-03 19:00:00.000 +0200,Mostly Cloudy,rain,24.92777778,24.92777778,0.46,3.0751,310,16.1,0,1017.23,Partly cloudy starting in the afternoon.
+2016-09-03 20:00:00.000 +0200,Mostly Cloudy,rain,21.18333333,21.18333333,0.59,2.1574,0,15.5526,0,1017.55,Partly cloudy starting in the afternoon.
+2016-09-03 21:00:00.000 +0200,Partly Cloudy,rain,19.88333333,19.88333333,0.64,0,0,16.1,0,1018.03,Partly cloudy starting in the afternoon.
+2016-09-03 22:00:00.000 +0200,Partly Cloudy,rain,18.75,18.75,0.66,3.0912,300,16.1,0,1018.05,Partly cloudy starting in the afternoon.
+2016-09-03 23:00:00.000 +0200,Partly Cloudy,rain,18.17777778,18.17777778,0.73,3.0107,86,15.5526,0,1018.07,Partly cloudy starting in the afternoon.
+2016-09-30 00:00:00.000 +0200,Partly Cloudy,rain,13.68333333,13.68333333,0.81,6.2468,181,16.1,0,1021.6,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 01:00:00.000 +0200,Partly Cloudy,rain,13.17777778,13.17777778,0.83,6.5044,171,16.0517,0,1021.3,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 02:00:00.000 +0200,Clear,rain,12.63888889,12.63888889,0.87,5.6833,173,15.1501,0,1021.17,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 03:00:00.000 +0200,Clear,rain,12.03888889,12.03888889,0.9,6.2951,170,14.9891,0,1020.8,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 04:00:00.000 +0200,Clear,rain,11.43888889,11.43888889,0.9,6.1502,140,14.812,0,1020.59,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 05:00:00.000 +0200,Clear,rain,11.35555556,11.35555556,0.87,10.9158,140,14.0875,0,1020.25,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 06:00:00.000 +0200,Clear,rain,9.883333333,8.583333333,0.93,9.5634,141,6.0697,0,1020.2,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 07:00:00.000 +0200,Clear,rain,9.911111111,8.672222222,0.93,9.2414,141,6.0697,0,1020.38,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 08:00:00.000 +0200,Clear,rain,12.18333333,12.18333333,0.86,8.0017,159,5.9731,0,1020.69,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 09:00:00.000 +0200,Clear,rain,15.05,15.05,0.78,7.7763,161,14.812,0,1020.58,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 10:00:00.000 +0200,Clear,rain,17.98888889,17.98888889,0.64,7.7763,182,15.7297,0,1020.58,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 11:00:00.000 +0200,Partly Cloudy,rain,21.28888889,21.28888889,0.55,9.1287,198,15.5204,0,1020.67,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 12:00:00.000 +0200,Partly Cloudy,rain,22.85,22.85,0.48,9.5956,183,16.1,0,1020.37,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 13:00:00.000 +0200,Clear,rain,25,25,0.39,12.6063,202,16.1,0,1019.87,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 14:00:00.000 +0200,Partly Cloudy,rain,25.06111111,25.06111111,0.36,8.9677,195,15.5526,0,1019.11,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 15:00:00.000 +0200,Partly Cloudy,rain,25.04444444,25.04444444,0.36,9.3863,173,16.1,0,1018.48,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 16:00:00.000 +0200,Partly Cloudy,rain,25.09444444,25.09444444,0.36,9.2414,174,16.1,0,1017.79,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 17:00:00.000 +0200,Partly Cloudy,rain,25.07777778,25.07777778,0.33,8.5652,202,15.5526,0,1017.38,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 18:00:00.000 +0200,Partly Cloudy,rain,22.24444444,22.24444444,0.52,4.508,133,16.1,0,1017.19,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 19:00:00.000 +0200,Partly Cloudy,rain,17.82777778,17.82777778,0.65,7.406,131,16.1,0,1017.3,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 20:00:00.000 +0200,Partly Cloudy,rain,17.03333333,17.03333333,0.72,8.0017,212,15.1823,0,1017.58,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 21:00:00.000 +0200,Clear,rain,15.91111111,15.91111111,0.73,4.5724,170,16.0517,0,1017.91,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 22:00:00.000 +0200,Clear,rain,14.75,14.75,0.81,6.1502,160,15.8263,0,1017.82,Partly cloudy starting in the morning continuing until evening.
+2016-09-30 23:00:00.000 +0200,Mostly Cloudy,rain,13.64444444,13.64444444,0.83,5.3291,165,14.8764,0,1017.97,Partly cloudy starting in the morning continuing until evening.
+2016-09-04 00:00:00.000 +0200,Clear,rain,17.08333333,17.08333333,0.73,3.2039,329,16.1,0,1018.25,Mostly cloudy starting in the morning.
+2016-09-04 01:00:00.000 +0200,Partly Cloudy,rain,16.02222222,16.02222222,0.76,0,0,16.0517,0,1018.24,Mostly cloudy starting in the morning.
+2016-09-04 02:00:00.000 +0200,Clear,rain,15.47777778,15.47777778,0.85,2.576,206,15.1501,0,1018.17,Mostly cloudy starting in the morning.
+2016-09-04 03:00:00.000 +0200,Clear,rain,14.86111111,14.86111111,0.84,2.9302,321,15.8263,0,1018.04,Mostly cloudy starting in the morning.
+2016-09-04 04:00:00.000 +0200,Clear,rain,13.84444444,13.84444444,0.84,0,0,15.8263,0,1017.82,Mostly cloudy starting in the morning.
+2016-09-04 05:00:00.000 +0200,Partly Cloudy,rain,13.92777778,13.92777778,0.84,2.8175,253,15.3111,0,1017.69,Mostly cloudy starting in the morning.
+2016-09-04 06:00:00.000 +0200,Partly Cloudy,rain,12.78333333,12.78333333,0.9,2.9463,180,9.9337,0,1017.73,Mostly cloudy starting in the morning.
+2016-09-04 07:00:00.000 +0200,Mostly Cloudy,rain,15.93333333,15.93333333,0.88,4.3309,151,8.05,0,1017.94,Mostly cloudy starting in the morning.
+2016-09-04 08:00:00.000 +0200,Mostly Cloudy,rain,19.57777778,19.57777778,0.75,4.7173,189,9.982,0,1018.09,Mostly cloudy starting in the morning.
+2016-09-04 09:00:00.000 +0200,Mostly Cloudy,rain,23.82222222,23.82222222,0.55,3.22,206,16.0517,0,1018.02,Mostly cloudy starting in the morning.
+2016-09-04 10:00:00.000 +0200,Mostly Cloudy,rain,NaN,26.08888889,0.45,4.4919,185,16.1,0,1018.11,Mostly cloudy starting in the morning.
+2016-09-04 11:00:00.000 +0200,Mostly Cloudy,rain,27.77777778,27.2,0.35,7.4221,201,15.5526,0,1017.86,Mostly cloudy starting in the morning.
+2016-09-04 12:00:00.000 +0200,Mostly Cloudy,rain,28.81666667,27.96111111,0.34,6.6493,230,16.1,0,1017.51,Mostly cloudy starting in the morning.
+2016-09-04 13:00:00.000 +0200,Mostly Cloudy,rain,29.88333333,28.79444444,0.32,9.5312,202,16.1,0,1016.92,Mostly cloudy starting in the morning.
+2016-09-04 14:00:00.000 +0200,Overcast,rain,29.78333333,28.62777778,0.31,9.66,242,15.5526,0,1016.56,Mostly cloudy starting in the morning.
+2016-09-04 15:00:00.000 +0200,Overcast,rain,29.90555556,28.78333333,0.32,11.1895,259,16.1,0,1015.91,Mostly cloudy starting in the morning.
+2016-09-04 16:00:00.000 +0200,Overcast,rain,29.95,28.82222222,0.32,11.0446,220,16.1,0,1015.4,Mostly cloudy starting in the morning.
+2016-09-04 17:00:00.000 +0200,Overcast,rain,28.88333333,27.82777778,0.31,8.4203,249,15.5526,0,1014.86,Mostly cloudy starting in the morning.
+2016-09-04 18:00:00.000 +0200,Overcast,rain,28.81666667,27.94444444,0.34,7.9212,238,16.1,0,1014.22,Mostly cloudy starting in the morning.
+2016-09-04 19:00:00.000 +0200,Overcast,rain,26.13333333,26.13333333,0.44,3.1717,210,16.1,0,1013.9,Mostly cloudy starting in the morning.
+2016-09-04 20:00:00.000 +0200,Mostly Cloudy,rain,22.8,22.8,0.56,3.22,190,15.5526,0,1014.07,Mostly cloudy starting in the morning.
+2016-09-04 21:00:00.000 +0200,Mostly Cloudy,rain,21.05,21.05,0.72,4.7012,161,16.1,0,1014.31,Mostly cloudy starting in the morning.
+2016-09-04 22:00:00.000 +0200,Partly Cloudy,rain,19.5,19.5,0.73,3.1234,153,16.1,0,1014.02,Mostly cloudy starting in the morning.
+2016-09-04 23:00:00.000 +0200,Partly Cloudy,rain,18.95,18.95,0.75,3.8157,193,15.5526,0,1014,Mostly cloudy starting in the morning.
+2016-09-05 00:00:00.000 +0200,Partly Cloudy,rain,18.80555556,18.80555556,0.75,10.6421,132,16.1,0,1013.71,Mostly cloudy throughout the day.
+2016-09-05 01:00:00.000 +0200,Partly Cloudy,rain,18.27222222,18.27222222,0.75,6.1663,143,16.1,0,1013.31,Mostly cloudy throughout the day.
+2016-09-05 02:00:00.000 +0200,Partly Cloudy,rain,17.15,17.15,0.77,6.0697,162,15.1823,0,1013.06,Mostly cloudy throughout the day.
+2016-09-05 03:00:00.000 +0200,Mostly Cloudy,rain,16.77222222,16.77222222,0.81,6.3434,174,16.1,0,1012.62,Mostly cloudy throughout the day.
+2016-09-05 04:00:00.000 +0200,Mostly Cloudy,rain,15.70555556,15.70555556,0.81,2.8014,165,16.1,0,1012.12,Mostly cloudy throughout the day.
+2016-09-05 05:00:00.000 +0200,Mostly Cloudy,rain,16.27222222,16.27222222,0.82,5.313,331,14.9569,0,1012.12,Mostly cloudy throughout the day.
+2016-09-05 06:00:00.000 +0200,Overcast,rain,15.16666667,15.16666667,0.87,1.2236,26,14.9086,0,1011.63,Mostly cloudy throughout the day.
+2016-09-05 07:00:00.000 +0200,Overcast,rain,17.26666667,17.26666667,0.82,1.0143,312,14.9086,0,1011.94,Mostly cloudy throughout the day.
+2016-09-05 08:00:00.000 +0200,Overcast,rain,18.75,18.75,0.79,4.9588,356,14.0875,0,1011.9,Mostly cloudy throughout the day.
+2016-09-05 09:00:00.000 +0200,Overcast,rain,19.74444444,19.74444444,0.79,22.4273,321,9.8049,0,1012.01,Mostly cloudy throughout the day.
+2016-09-05 10:00:00.000 +0200,Breezy and Overcast,rain,17.61666667,17.61666667,0.9,30.9764,330,9.8532,0,1012.61,Mostly cloudy throughout the day.
+2016-09-05 11:00:00.000 +0200,Overcast,rain,16.37222222,16.37222222,0.92,22.701,341,10.2718,0,1013.39,Mostly cloudy throughout the day.
+2016-09-05 12:00:00.000 +0200,Overcast,rain,16.13888889,16.13888889,0.93,17.0821,348,9.9015,0,1013.36,Mostly cloudy throughout the day.
+2016-09-05 13:00:00.000 +0200,Overcast,rain,16.18333333,16.18333333,0.93,20.1733,329,5.2164,0,1012.99,Mostly cloudy throughout the day.
+2016-09-05 14:00:00.000 +0200,Overcast,rain,17.04444444,17.04444444,0.93,16.6152,322,9.982,0,1013.1,Mostly cloudy throughout the day.
+2016-09-05 15:00:00.000 +0200,Overcast,rain,17.17777778,17.17777778,0.93,12.5419,319,9.982,0,1013.05,Mostly cloudy throughout the day.
+2016-09-05 16:00:00.000 +0200,Mostly Cloudy,rain,17.2,17.2,0.88,8.3398,290,9.982,0,1013.14,Mostly cloudy throughout the day.
+2016-09-05 17:00:00.000 +0200,Mostly Cloudy,rain,16.19444444,16.19444444,0.93,9.0965,263,9.6278,0,1013.11,Mostly cloudy throughout the day.
+2016-09-05 18:00:00.000 +0200,Mostly Cloudy,rain,17.29444444,17.29444444,0.93,9.4185,251,9.982,0,1013.04,Mostly cloudy throughout the day.
+2016-09-05 19:00:00.000 +0200,Mostly Cloudy,rain,16.20555556,16.20555556,0.93,9.0804,249,9.7566,0,1013.04,Mostly cloudy throughout the day.
+2016-09-05 20:00:00.000 +0200,Mostly Cloudy,rain,16.11111111,16.11111111,0.93,9.66,240,9.982,0,1013.41,Mostly cloudy throughout the day.
+2016-09-05 21:00:00.000 +0200,Mostly Cloudy,rain,15.95,15.95,0.93,0.5152,290,10.2557,0,1013.37,Mostly cloudy throughout the day.
+2016-09-05 22:00:00.000 +0200,Mostly Cloudy,rain,15.36666667,15.36666667,0.96,3.2039,239,16.0517,0,1013.77,Mostly cloudy throughout the day.
+2016-09-05 23:00:00.000 +0200,Partly Cloudy,rain,15.36666667,15.36666667,0.94,6.5527,281,15.0213,0,1013.96,Mostly cloudy throughout the day.
+2016-09-06 00:00:00.000 +0200,Partly Cloudy,rain,14.32777778,14.32777778,0.93,3.4293,281,15.7297,0,1013.77,Mostly cloudy starting overnight.
+2016-09-06 01:00:00.000 +0200,Clear,rain,13.33333333,13.33333333,0.96,6.6654,300,15.7297,0,1013.77,Mostly cloudy starting overnight.
+2016-09-06 02:00:00.000 +0200,Clear,rain,12.87777778,12.87777778,0.93,3.6064,310,14.8764,0,1013.92,Mostly cloudy starting overnight.
+2016-09-06 03:00:00.000 +0200,Partly Cloudy,rain,12.8,12.8,0.96,6.5205,310,15.7297,0,1014.16,Mostly cloudy starting overnight.
+2016-09-06 04:00:00.000 +0200,Partly Cloudy,rain,12.26666667,12.26666667,0.96,6.3756,319,15.7297,0,1014.15,Mostly cloudy starting overnight.
+2016-09-06 05:00:00.000 +0200,Partly Cloudy,rain,11.95,11.95,0.96,3.542,310,14.0875,0,1014.22,Mostly cloudy starting overnight.
+2016-09-06 06:00:00.000 +0200,Mostly Cloudy,rain,12.33888889,12.33888889,1,3.5581,301,8.05,0,1014.45,Mostly cloudy starting overnight.
+2016-09-06 07:00:00.000 +0200,Mostly Cloudy,rain,12.87222222,12.87222222,1,4.5241,339,9.982,0,1014.84,Mostly cloudy starting overnight.
+2016-09-06 08:00:00.000 +0200,Mostly Cloudy,rain,14.86666667,14.86666667,0.93,10.0303,341,11.3183,0,1015.12,Mostly cloudy starting overnight.
+2016-09-06 09:00:00.000 +0200,Mostly Cloudy,rain,17.17777778,17.17777778,0.87,9.4346,39,9.982,0,1015.63,Mostly cloudy starting overnight.
+2016-09-06 10:00:00.000 +0200,Partly Cloudy,rain,18.75,18.75,0.79,12.2038,67,9.982,0,1016.05,Mostly cloudy starting overnight.
+2016-09-06 11:00:00.000 +0200,Partly Cloudy,rain,18.97777778,18.97777778,0.78,11.6081,49,9.982,0,1016.59,Mostly cloudy starting overnight.
+2016-09-06 12:00:00.000 +0200,Mostly Cloudy,rain,20.02222222,20.02222222,0.68,12.4131,42,9.982,0,1017.23,Mostly cloudy starting overnight.
+2016-09-06 13:00:00.000 +0200,Mostly Cloudy,rain,21.03888889,21.03888889,0.63,12.3487,59,9.982,0,1017.44,Mostly cloudy starting overnight.
+2016-09-06 14:00:00.000 +0200,Mostly Cloudy,rain,20.96666667,20.96666667,0.63,14.1197,59,10.3523,0,1017.84,Mostly cloudy starting overnight.
+2016-09-06 15:00:00.000 +0200,Mostly Cloudy,rain,22.15555556,22.15555556,0.64,15.939,69,9.982,0,1018.05,Mostly cloudy starting overnight.
+2016-09-06 16:00:00.000 +0200,Mostly Cloudy,rain,22.2,22.2,0.59,9.4024,58,9.982,0,1018.16,Mostly cloudy starting overnight.
+2016-09-06 17:00:00.000 +0200,Mostly Cloudy,rain,22.01111111,22.01111111,0.6,10.3684,51,10.3523,0,1018.92,Mostly cloudy starting overnight.
+2016-09-06 18:00:00.000 +0200,Mostly Cloudy,rain,21.03888889,21.03888889,0.64,11.0124,59,9.982,0,1019.36,Mostly cloudy starting overnight.
+2016-09-06 19:00:00.000 +0200,Mostly Cloudy,rain,19.97222222,19.97222222,0.73,10.7709,49,9.982,0,1019.85,Mostly cloudy starting overnight.
+2016-09-06 20:00:00.000 +0200,Mostly Cloudy,rain,18.80555556,18.80555556,0.78,8.5813,29,15.5526,0,1020.63,Mostly cloudy starting overnight.
+2016-09-06 21:00:00.000 +0200,Mostly Cloudy,rain,18.74444444,18.74444444,0.79,9.2897,9,16.1,0,1021.72,Mostly cloudy starting overnight.
+2016-09-06 22:00:00.000 +0200,Mostly Cloudy,rain,18.26111111,18.26111111,0.84,13.9104,10,16.1,0,1021.18,Mostly cloudy starting overnight.
+2016-09-06 23:00:00.000 +0200,Mostly Cloudy,rain,17.19444444,17.19444444,0.9,6.4078,3,15.1823,0,1021.54,Mostly cloudy starting overnight.
+2016-09-07 00:00:00.000 +0200,Overcast,rain,17.22222222,17.22222222,0.9,10.9158,351,16.1,0,1021.77,Partly cloudy throughout the day.
+2016-09-07 01:00:00.000 +0200,Overcast,rain,17.22222222,17.22222222,0.9,11.0768,352,16.1,0,1021.87,Partly cloudy throughout the day.
+2016-09-07 02:00:00.000 +0200,Mostly Cloudy,rain,17.20555556,17.20555556,0.93,10.6421,355,14.9569,0,1021.85,Partly cloudy throughout the day.
+2016-09-07 03:00:00.000 +0200,Mostly Cloudy,rain,17.2,17.2,0.93,14.0231,11,14.9086,0,1021.69,Partly cloudy throughout the day.
+2016-09-07 04:00:00.000 +0200,Mostly Cloudy,rain,17.17777778,17.17777778,0.93,14.0714,11,14.812,0,1021.49,Partly cloudy throughout the day.
+2016-09-07 05:00:00.000 +0200,Mostly Cloudy,rain,16.70555556,16.70555556,0.97,13.3147,21,14.1197,0,1021.47,Partly cloudy throughout the day.
+2016-09-07 06:00:00.000 +0200,Mostly Cloudy,rain,16.6,16.6,0.93,11.27,20,11.8979,0,1021.46,Partly cloudy throughout the day.
+2016-09-07 07:00:00.000 +0200,Partly Cloudy,rain,17.15555556,17.15555556,0.93,12.9444,21,14.812,0,1021.37,Partly cloudy throughout the day.
+2016-09-07 08:00:00.000 +0200,Partly Cloudy,rain,17.81111111,17.81111111,0.9,12.1555,22,13.7333,0,1021.36,Partly cloudy throughout the day.
+2016-09-07 09:00:00.000 +0200,Partly Cloudy,rain,19.97777778,19.97777778,0.84,11.431,32,11.9784,0,1021.35,Partly cloudy throughout the day.
+2016-09-07 10:00:00.000 +0200,Partly Cloudy,rain,22.71111111,22.71111111,0.71,11.1251,32,15.8263,0,1021.36,Partly cloudy throughout the day.
+2016-09-07 11:00:00.000 +0200,Partly Cloudy,rain,23.88333333,23.88333333,0.66,10.4489,69,15.1501,0,1021.35,Partly cloudy throughout the day.
+2016-09-07 12:00:00.000 +0200,Partly Cloudy,rain,26.01666667,26.01666667,0.55,9.499,79,16.1,0,1021.15,Partly cloudy throughout the day.
+2016-09-07 13:00:00.000 +0200,Partly Cloudy,rain,27.66111111,27.85,0.47,4.7012,103,15.8263,0,1020.65,Partly cloudy throughout the day.
+2016-09-07 14:00:00.000 +0200,Partly Cloudy,rain,27.65555556,27.61111111,0.44,8.9033,105,15.3111,0,1020.31,Partly cloudy throughout the day.
+2016-09-07 15:00:00.000 +0200,Partly Cloudy,rain,27.75555556,27.75555556,0.44,10.6582,177,16.1,0,1019.85,Partly cloudy throughout the day.
+2016-09-07 16:00:00.000 +0200,Partly Cloudy,rain,28.79444444,28.46111111,0.41,7.4543,188,16.1,0,1019.55,Partly cloudy throughout the day.
+2016-09-07 17:00:00.000 +0200,Partly Cloudy,rain,27.76111111,27.42222222,0.39,3.7674,141,15.5526,0,1019.36,Partly cloudy throughout the day.
+2016-09-07 18:00:00.000 +0200,Partly Cloudy,rain,27.17222222,27.23333333,0.44,0.2737,125,16.1,0,1019.13,Partly cloudy throughout the day.
+2016-09-07 19:00:00.000 +0200,Partly Cloudy,rain,23.83888889,23.83888889,0.62,3.22,70,16.1,0,1018.95,Partly cloudy throughout the day.
+2016-09-07 20:00:00.000 +0200,Partly Cloudy,rain,21.00555556,21.00555556,0.73,0.322,10,15.5526,0,1019.43,Partly cloudy throughout the day.
+2016-09-07 21:00:00.000 +0200,Partly Cloudy,rain,19.83888889,19.83888889,0.79,3.22,40,16.1,0,1019.83,Partly cloudy throughout the day.
+2016-09-07 22:00:00.000 +0200,Partly Cloudy,rain,18.72777778,18.72777778,0.84,0,0,16.1,0,1019.64,Partly cloudy throughout the day.
+2016-09-07 23:00:00.000 +0200,Partly Cloudy,rain,17.66111111,17.66111111,0.88,3.22,10,15.1501,0,1019.39,Partly cloudy throughout the day.
+2016-09-08 00:00:00.000 +0200,Clear,rain,16.52777778,NaN,0.9,3.22,290,16.0517,0,1019.26,Partly cloudy starting overnight.
+2016-09-08 01:00:00.000 +0200,Partly Cloudy,rain,16.11666667,16.11666667,0.93,3.22,10,15.8263,0,1019.24,Partly cloudy starting overnight.
+2016-09-08 02:00:00.000 +0200,Partly Cloudy,rain,16.15,16.15,0.93,0.3703,160,15.1501,0,1019.06,Partly cloudy starting overnight.
+2016-09-08 03:00:00.000 +0200,Partly Cloudy,rain,15.48888889,15.48888889,0.93,3.0268,359,15.134,0,1018.63,Partly cloudy starting overnight.
+2016-09-08 04:00:00.000 +0200,Partly Cloudy,rain,16.06666667,16.06666667,0.93,3.2039,19,15.134,0,1018.24,Partly cloudy starting overnight.
+2016-09-08 05:00:00.000 +0200,Mostly Cloudy,rain,16.73888889,16.73888889,0.9,10.626,2,14.168,0,1017.74,Partly cloudy starting overnight.
+2016-09-08 06:00:00.000 +0200,Mostly Cloudy,rain,16.98888889,16.98888889,0.88,4.83,20,15.6492,0,1017.46,Partly cloudy starting overnight.
+2016-09-08 07:00:00.000 +0200,Mostly Cloudy,rain,17.61666667,17.61666667,0.85,3.4454,30,15.7297,0,1017.55,Partly cloudy starting overnight.
+2016-09-08 08:00:00.000 +0200,Mostly Cloudy,rain,18.92777778,18.92777778,0.78,7.8085,33,15.2628,0,1017.47,Partly cloudy starting overnight.
+2016-09-08 09:00:00.000 +0200,Partly Cloudy,rain,22.72777778,22.72777778,0.63,3.5742,39,16.0517,0,1017.43,Partly cloudy starting overnight.
+2016-09-08 10:00:00.000 +0200,Mostly Cloudy,rain,24.88333333,24.88333333,0.55,3.2683,134,16.1,0,1017.43,Partly cloudy starting overnight.
+2016-09-08 11:00:00.000 +0200,Mostly Cloudy,rain,27.61111111,27.65555556,0.45,7.406,57,15.5526,0,1017.11,Partly cloudy starting overnight.
+2016-09-08 12:00:00.000 +0200,Partly Cloudy,rain,28.76666667,28.15555556,0.37,13.5884,128,16.1,0,1016.63,Partly cloudy starting overnight.
+2016-09-08 13:00:00.000 +0200,Partly Cloudy,rain,29.90555556,29.03333333,0.35,15.6975,100,16.1,0,1016.41,Partly cloudy starting overnight.
+2016-09-08 14:00:00.000 +0200,Partly Cloudy,rain,30.60555556,28.93888889,0.24,19.1268,121,15.5526,0,1015.76,Partly cloudy starting overnight.
+2016-09-08 15:00:00.000 +0200,Partly Cloudy,rain,29.95,28.40555556,0.25,21.8155,160,16.1,0,1015.23,Partly cloudy starting overnight.
+2016-09-08 16:00:00.000 +0200,Partly Cloudy,rain,29.97222222,28.46666667,0.26,12.3648,159,16.1,0,1014.91,Partly cloudy starting overnight.
+2016-09-08 17:00:00.000 +0200,Partly Cloudy,rain,28.84444444,27.6,0.27,5.2808,124,15.5526,0,1014.37,Partly cloudy starting overnight.
+2016-09-08 18:00:00.000 +0200,Partly Cloudy,rain,27.8,27.05,0.32,3.0751,120,16.1,0,1014.04,Partly cloudy starting overnight.
+2016-09-08 19:00:00.000 +0200,Partly Cloudy,rain,24.90555556,24.90555556,0.51,0,0,16.1,0,1014.14,Partly cloudy starting overnight.
+2016-09-08 20:00:00.000 +0200,Partly Cloudy,rain,22.36666667,22.36666667,0.58,3.3327,135,15.5526,0,1014.34,Partly cloudy starting overnight.
+2016-09-08 21:00:00.000 +0200,Mostly Cloudy,rain,21.01666667,21.01666667,0.64,3.22,340,16.1,0,1014.73,Partly cloudy starting overnight.
+2016-09-08 22:00:00.000 +0200,Partly Cloudy,rain,19.92777778,19.92777778,0.71,3.1556,302,16.1,0,1014.63,Partly cloudy starting overnight.
+2016-09-08 23:00:00.000 +0200,Partly Cloudy,rain,18.35,18.35,0.77,3.22,53,15.5526,0,1014.68,Partly cloudy starting overnight.
+2016-09-09 00:00:00.000 +0200,Partly Cloudy,rain,17.75555556,17.75555556,0.81,2.9624,12,16.1,0,1014.65,Partly cloudy starting in the morning.
+2016-09-09 01:00:00.000 +0200,Clear,rain,16.62222222,16.62222222,0.87,3.4293,349,16.1,0,1014.56,Partly cloudy starting in the morning.
+2016-09-09 02:00:00.000 +0200,Clear,rain,16.14444444,16.14444444,0.87,3.6547,16,15.1501,0,1014.69,Partly cloudy starting in the morning.
+2016-09-09 03:00:00.000 +0200,Clear,rain,15.59444444,15.59444444,0.87,3.2844,41,15.4399,0,1014.52,Partly cloudy starting in the morning.
+2016-09-09 04:00:00.000 +0200,Clear,rain,15.01111111,15.01111111,0.93,3.2039,341,15.8263,0,1014.37,Partly cloudy starting in the morning.
+2016-09-09 05:00:00.000 +0200,Clear,rain,15.01666667,15.01666667,0.9,2.7048,359,14.9569,0,1014.55,Partly cloudy starting in the morning.
+2016-09-09 06:00:00.000 +0200,Clear,rain,13.87222222,13.87222222,0.93,4.7495,0,15.8263,0,1014.66,Partly cloudy starting in the morning.
+2016-09-09 07:00:00.000 +0200,Clear,rain,16.07222222,16.07222222,0.88,2.7853,12,15.7297,0,1015.25,Partly cloudy starting in the morning.
+2016-09-09 08:00:00.000 +0200,Partly Cloudy,rain,19.56111111,19.56111111,0.75,3.7191,12,14.9569,0,1015.28,Partly cloudy starting in the morning.
+2016-09-09 09:00:00.000 +0200,Partly Cloudy,rain,22.13888889,22.13888889,0.65,7.7763,30,16.1,0,1015.46,Partly cloudy starting in the morning.
+2016-09-09 10:00:00.000 +0200,Partly Cloudy,rain,22.87222222,22.87222222,0.59,6.4239,49,16.1,0,1015.65,Partly cloudy starting in the morning.
+2016-09-09 11:00:00.000 +0200,Partly Cloudy,rain,27.07222222,27.02222222,0.42,12.0106,49,15.5526,0,1015.44,Partly cloudy starting in the morning.
+2016-09-09 12:00:00.000 +0200,Partly Cloudy,rain,28.86666667,28.21666667,0.37,13.9265,61,16.1,0,1015.35,Partly cloudy starting in the morning.
+2016-09-09 13:00:00.000 +0200,Partly Cloudy,rain,30.99444444,29.97222222,0.33,15.617,70,16.1,0,1014.86,Partly cloudy starting in the morning.
+2016-09-09 14:00:00.000 +0200,Partly Cloudy,rain,30.89444444,29.45,0.28,14.7798,43,15.5526,0,1014.66,Partly cloudy starting in the morning.
+2016-09-09 15:00:00.000 +0200,Partly Cloudy,rain,31.08333333,29.61666667,0.28,15.5043,40,NaN,0,1014.17,Partly cloudy starting in the morning.
+2016-09-09 16:00:00.000 +0200,Partly Cloudy,rain,31.08333333,29.61111111,0.28,13.8943,40,16.1,0,1013.97,Partly cloudy starting in the morning.
+2016-09-09 17:00:00.000 +0200,Partly Cloudy,rain,30.76666667,29.31111111,0.28,14.2163,24,15.5526,0,1013.83,Partly cloudy starting in the morning.
+2016-09-09 18:00:00.000 +0200,Partly Cloudy,rain,28.83888889,27.85,0.32,12.2038,21,16.1,0,1014.07,Partly cloudy starting in the morning.
+2016-09-09 19:00:00.000 +0200,Partly Cloudy,rain,26.01666667,26.01666667,0.43,10.9963,31,16.1,0,1014.36,Partly cloudy starting in the morning.
+2016-09-09 20:00:00.000 +0200,Partly Cloudy,rain,24.58333333,24.58333333,0.48,10.0947,20,15.5526,0,1015.16,Partly cloudy starting in the morning.
+2016-09-09 21:00:00.000 +0200,Partly Cloudy,rain,22.03888889,22.03888889,0.56,8.9838,30,16.1,0,1015.66,Partly cloudy starting in the morning.
+2016-09-09 22:00:00.000 +0200,Partly Cloudy,rain,21.52222222,21.52222222,0.6,10.5294,20,16.1,0,1015.95,Partly cloudy starting in the morning.
+2016-09-09 23:00:00.000 +0200,Partly Cloudy,rain,20.43888889,20.43888889,0.61,5.8765,39,15.5204,0,1016.16,Partly cloudy starting in the morning.
